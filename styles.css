@@ -18,6 +18,20 @@ body {
     max-width: 600px;
 }
 
+#question-type-container {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#question-type {
+    padding: 10px;
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
 #question-container {
     margin-bottom: 20px;
 }

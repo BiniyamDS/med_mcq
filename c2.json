@@ -1,0 +1,563 @@
+[
+    {
+      "question": "Wrong regarding aplastic anemia",
+      "choices": [
+        "Can be congenital or acquired",
+        "Caused by direct and immunologic injury to hematopoietic stem cells",
+        "Presence of organomegaly or LAP is unlikely",
+        "Initial blood cell count does not determine outcome",
+        "Can be phenotypic expression of myelodysplasia and leukemia"
+      ],
+      "answer": "Initial blood cell count does not determine outcome"
+    },
+    {
+      "question": "All correctly describe about CML, except",
+      "choices": [
+        "The commonest type of leukemia in Ethiopia",
+        "Ph(+) CML has poor prognosis than Ph(-) CML",
+        "Infection and bleeding is unusual in chronic phase",
+        "Extramedullary blast proliferation indicates blast crisis",
+        "Allogeneic bone marrow transplantation is gold standard therapy"
+      ],
+      "answer": "Ph(+) CML has poor prognosis than Ph(-) CML"
+    },
+    {
+      "question": "All of the following correctly describe regarding CLL, except",
+      "choices": [
+        "Treatment modalities are palliative in general",
+        "Etiology in majority of cases is unknown",
+        "Defective immune surveillance occurs in CLL",
+        "All cases of CLL are candidates for chemotherapy",
+        "BM examination predicts prognosis in CLL"
+      ],
+      "answer": "All cases of CLL are candidates for chemotherapy"
+    },
+    {
+      "question": "Not poor prognostic indicator in CLL",
+      "choices": [
+        "Presence of cytopenias",
+        "Nodular BM involvement",
+        "Lymphocyte doubling time <12 months",
+        "Poor response to therapy",
+        "Elevated serum β₂-microglobulin levels"
+      ],
+      "answer": "Elevated serum β₂-microglobulin levels"
+    },
+    {
+      "question": "Not characteristic feature of Hodgkins lymphoma",
+      "choices": [
+        "Centripetal in distribution",
+        "Contiguous nodal spread",
+        "B symptoms are uncommon",
+        "BM involvement affects prognosis",
+        "Curable by chemotherapy"
+      ],
+      "answer": "Centripetal in distribution"
+    },
+    {
+      "question": "Unfavourable international prognostic indicator (IPI) in Non-Hodgkins lymphoma, except",
+      "choices": [
+        "Presence of B symptoms",
+        "BM involvement",
+        "Extra-nodal involvement",
+        "Elevated LDH",
+        "Poor performance stat"
+      ],
+      "answer": "Poor performance stat"
+    },
+    {
+      "question": "One of the following is NOT a cause for pleural effusion",
+      "choices": [
+        "Meig's syndrome",
+        "Acute rheumatic fever",
+        "Subphrenic abscess",
+        "Myxedema",
+        "Nephrotic syndrome"
+      ],
+      "answer": "Acute rheumatic fever"
+    },
+    {
+      "question": "Which of the following conditions would be expected to increase the residual volume of the lung?",
+      "choices": [
+        "Bacterial pneumonia",
+        "Cryptogenic organizing pneumonia",
+        "Emphysema",
+        "Idiopathic pulmonary fibrosis",
+        "Obesity"
+      ],
+      "answer": "Emphysema"
+    },
+    {
+      "question": "Which of the following medications used as antimycobacterial drugs require dose reduction for patients with an estimated glomerular filtration rate <30 mL/min?",
+      "choices": [
+        "Isoniazid",
+        "Pyrazinamide",
+        "Rifabutin",
+        "Rifampin",
+        "Streptomycin"
+      ],
+      "answer": "Streptomycin"
+    },
+    {
+      "question": "Screening for Mycobacterium tuberculosis infection is indicated in HIV patients at the time of initial diagnosis for all of the following reasons EXCEPT",
+      "choices": [
+        "Active tuberculosis treatment success rates are lower in HIV-infected patients compared to HIV-uninfected patients.",
+        "Drug interactions between drug regimens for active tuberculosis therapy and highly active antiretroviral therapy are challenging to manage.",
+        "HIV-associated active tuberculosis is more likely to be extrapulmonary and diagnostically challenging.",
+        "HIV-infected patients with active tuberculosis have high 6-month HIV-related mortality rates.",
+        "The rate of progression from latent tuberculosis to active tuberculosis is higher in HIV-infected persons compared to HIV-uninfected persons"
+      ],
+      "answer": "HIV-infected patients with active tuberculosis have high 6-month HIV-related mortality rates."
+    },
+    {
+      "question": "Pulmonary thromboembolism (PTE)",
+      "choices": [
+        "Serum D-dimer is the gold standard diagnostic modality",
+        "Risk factors are always present",
+        "Hypotension indicates severe form of the disease than right ventricular hypokinesis",
+        "Anticoagulation with heparin and warfarin clears the thrombus",
+        "A normal CT Scan excludes PTE"
+      ],
+      "answer": "Serum D-dimer is the gold standard diagnostic modality"
+    },
+    {
+      "question": "Nitrates are beneficial in relieving dysphagic symptoms of",
+      "choices": [
+        "Reflux esophagitis",
+        "Globus hystericus",
+        "Schiatzleis ring",
+        "Scleroderma",
+        "Candida esophagitis"
+      ],
+      "answer": "Reflux esophagitis"
+    },
+    {
+      "question": "H₂ receptor antagonist or potassium ATPase pump inhibitor maintenance therapy in peptic ulcers is useful in preventing",
+      "choices": [
+        "Gastric outlet obstruction",
+        "Recurrence of bleeding",
+        "Ulcer perforation",
+        "Malignant transformation",
+        "Recurrence of H.pylori infection"
+      ],
+      "answer": "Recurrence of bleeding"
+    },
+    {
+      "question": "Which of the following does not complicate type A chronic atrophic gastritis",
+      "choices": [
+        "B₁₂ deficiency anemia",
+        "Carcinoid tumors",
+        "Hypergastrenemia",
+        "Folate deficiency anem",
+        "Iron deficiency anemia"
+      ],
+      "answer": "Hypergastrenemia"
+    },
+    {
+      "question": "Antibiotics are non beneficial to improve malabsorption in",
+      "choices": [
+        "Post gastrectomy malabsorption",
+        "Whipples disease",
+        "Tropical sprue",
+        "Intestinal pseudobstruction",
+        "Nontropical sprue"
+      ],
+      "answer": "Post gastrectomy malabsorption"
+    },
+    {
+      "question": "Which of the following infections is common during defects in the complement system?",
+      "choices": [
+        "P. aeruginosa",
+        "S. aureus",
+        "S. pneumonia",
+        "Salmonella spp",
+        "N. meningitidis"
+      ],
+      "answer": "N. meningitidis"
+    },
+    {
+      "question": "A 34 years old HIV patient presented with amenorrhea of 2 months duration. Her CD4 count was 300 cells/µl. She is started on anti-tuberculosis before 3 weeks and has tolerated the medications. The only other abnormality from the other investigation was that she was positive for HBsAg. Which of the following is better option for the management of this patient?",
+      "choices": [
+        "TDF-3TC-NVP",
+        "AZT-3TC-NVP",
+        "AZT-3TC-Kaletra",
+        "TDF-3TC-ABC",
+        "TDF-3TC-EFV"
+      ],
+      "answer": "TDF-3TC-EFV"
+    },
+    {
+      "question": "Which one is correct concerning visceral leishmaniasis treatment?",
+      "choices": [
+        "Definitive cure is defined after six months of treatment",
+        "Test of cure negative patients will not relapse",
+        "SSG has better safety profile than AmBisome",
+        "Relapse is common after the first year of the initial treatment",
+        "Relapsed cases are less symptomatic and easily treatable"
+      ],
+      "answer": "Definitive cure is defined after six months of treatment"
+    },
+    {
+      "question": "A medical student who went for TTP program to Gorgora (small town by the side of Lake Tana) presented with fever, arthralgia, diarrhea and headache. His body temperature was 39ºC, and he had tender cervical, axillary and inguinal lymphadenopathy. The blood film was negative for hemoparasite. The WBC count was 15,000/µl with 50% eosinophilia. Which of the following medication is important for his treatment?",
+      "choices": [
+        "Coartem",
+        "Praziquantel",
+        "AmBisome",
+        "Ceftriaxone",
+        "Thiabendazole"
+      ],
+      "answer": "Praziquantel"
+    },
+    {
+      "question": "Which one of the following is not important for the management of relapsing fever?",
+      "choices": [
+        "Chloramphenicol",
+        "Crystalline penicillin",
+        "Procaine penicillin",
+        "Tetracycline",
+        "Erythromycin"
+      ],
+      "answer": "Chloramphenicol"
+    },
+    {
+      "question": "Not a typical feature of the nephrotic syndrome",
+      "choices": [
+        "Hypercholesterolemia",
+        "Hypoalbuminemia",
+        "Venous thromboembolism",
+        "Lipiduria",
+        "Increased serum BUN and creatinine"
+      ],
+      "answer": "Hypercholesterolemia"
+    },
+    {
+      "question": "Not given for the management of hyperkalemia:",
+      "choices": [
+        "Calcium gluconate",
+        "Intravenous NaHCO3",
+        "Beta- blockers",
+        "Thiazide diuretics",
+        "Insulin with glucose"
+      ],
+      "answer": "Beta- blockers"
+    },
+    {
+      "question": "Not given for acute post-streptococcal glomerulonephritis",
+      "choices": [
+        "Antibiotics",
+        "Steroids",
+        "Dialysis",
+        "Diuretics",
+        "Anti-hypertensive"
+      ],
+      "answer": "Steroids"
+    },
+    {
+      "question": "Diffuse symmetric arthritis with pulmonary nodules most probably signifies",
+      "choices": [
+        "Reiter's syndrome",
+        "Secondary syphilis",
+        "Rheumatoid arthritis",
+        "SLE",
+        "Tuberculosis"
+      ],
+      "answer": "Rheumatoid arthritis"
+    },
+    {
+      "question": "A complication of chronic renal failure",
+      "choices": [
+        "Hypophosphatemia",
+        "Hypoparathyroidism",
+        "Hypercalcemia",
+        "Hyperparathyroidism",
+        "Chronic metabolic alkalosis"
+      ],
+      "answer": "Hyperparathyroidism"
+    },
+    {
+      "question": "Not true regarding cobalamin deficiency anemia",
+      "choices": [
+        "Characterized by cytoplasmic immaturity in hematopoietic cells",
+        "Neuropsychiatric symptoms and signs can occur",
+        "Macrocytosis and hypersegmented neutrophils in peripheral smear",
+        "Serum methylmalonate and homocysteine levels are increased",
+        "Schilling test helps to diagnose GIT causes of cobalamin deficiency"
+      ],
+      "answer": "Characterized by cytoplasmic immaturity in hematopoietic cells"
+    },
+    {
+      "question": "All the following may cause elevation of serum troponin EXCEPT",
+      "choices": [
+        "Congestive heart failure",
+        "Myocarditis",
+        "Myocardial infarction",
+        "Pneumonia",
+        "Pulmonary embolism"
+      ],
+      "answer": "Pneumonia"
+    },
+    {
+      "question": "When deciding whether to initiate anticoagulation for a patient with atrial fibrillation, which of the following factors is LEAST important?",
+      "choices": [
+        "Age",
+        "History of diabetes",
+        "Use of antiarrhythmic medications",
+        "Hypertension",
+        "Mitral stenosis"
+      ],
+      "answer": "Use of antiarrhythmic medications"
+    },
+    {
+      "question": "For a patient with severe symptomatic bradycardia, the most important emergency intervention pending cardiac pacing will include",
+      "choices": [
+        "Atropine",
+        "Anticoagulation",
+        "Digoxin",
+        "Calcium channel blocker",
+        "DC Cardioversion"
+      ],
+      "answer": "Atropine"
+    },
+    {
+      "question": "Which of the following patients require an urgent beta blocker administration",
+      "choices": [
+        "Acute coronary syndrome with anteroseptal infarction",
+        "Acute coronary syndrome with inferior wall infarction",
+        "Ischemic cardiomyopathy with pulmonary edema",
+        "Cardiac tamponade",
+        "Severe aortic stenosis"
+      ],
+      "answer": "Acute coronary syndrome with anteroseptal infarction"
+    },
+    {
+      "question": "Which one of the following is NOT an indication for antibiotic prophylaxis for a dental procedure",
+      "choices": [
+        "Unrepaired cyanotic congenital heart disease",
+        "Severe mitral stenosis",
+        "Prostatic valve",
+        "Valvopathy after cardiac transplantation",
+        "Prior Infective endocarditis"
+      ],
+      "answer": "Prior Infective endocarditis"
+    },
+    {
+      "question": "A patient is found to have a holosystolic murmur on physical examination. With deep inspiration, the intensity of the murmur increases. This is consistent with which of the following?",
+      "choices": [
+        "Atrial-septal defect",
+        "Austin Flint murmur",
+        "Carvallo's sign",
+        "Chronic mitral regurgitation",
+        "E.Gallavardin effect"
+      ],
+      "answer": "Carvallo's sign"
+    },
+    {
+      "question": "A 40 year-old female presents to the Gondar University Hospital because of hemoptysis. She has coughed up approximately 1 teaspoon of blood for the last 4 days. She has a history of cigarette smoking. A chest radiogram shows diffuse bilateral infiltrates predominantly in the lower lobes. The hematocrit is 30%, and the serum creatinine is 4.0 mg/dL. Both were normal previously. Urinalysis shows 2+ protein and red blood cell casts. The presence of autoantibodies directed against which of the following is most likely to yield a definitive diagnosis?",
+      "choices": [
+        "Phospholipids",
+        "Glomerular basement membrane",
+        "Glutamic acid decarboxylase",
+        "Angiotensin converting enzyme",
+        "U1 ribonucleoprotein (RNP)"
+      ],
+      "answer": "Glomerular basement membrane"
+    },
+    {
+      "question": "One of the following is FALSE about Sarcoidosis",
+      "choices": [
+        "Cervical lymph nodes are commonly affected",
+        "Non caseous granuloma is its feature",
+        "Upper lung lobes are usually involved",
+        "Serum level of angiotensin converting enzyme level has a prognostic advantage",
+        "Hypercalcemia can be one manifestation"
+      ],
+      "answer": "Cervical lymph nodes are commonly affected"
+    },
+    {
+      "question": "TRUE about Interstitial Lung Disease",
+      "choices": [
+        "Smoking induces some variants of it",
+        "Hyper inflated lungs on Chest X-ray",
+        "High resolution CT Scan is an etiologic diagnostic modality",
+        "Majority of them have obstructive feature on Spirometry",
+        "Pulmonary hypertension less common as compared to COPD"
+      ],
+      "answer": "Smoking induces some variants of it"
+    },
+    {
+      "question": "Not features of Anterior cerebral artery occlusion",
+      "choices": [
+        "Greater contralateral arm weakness than leg weakness",
+        "Impaired judgment",
+        "Apraxic gait",
+        "Urinary incontinence",
+        "Primitive reflex present"
+      ],
+      "answer": "Greater contralateral arm weakness than leg weakness"
+    },
+    {
+      "question": "Which of the following is correct regarding hypertensive intraparenchymal hemorrhage, except",
+      "choices": [
+        "Associated with high fatality rate",
+        "Basal ganglia is common site of bleeding",
+        "Light reactive pin point pupil occurs in pontine hemorrhage",
+        "Eye deviation towards the hemiparesis occurs in putaminal hemorrhage",
+        "Surgical intervention may be required in cerebellar hemorrhage"
+      ],
+      "answer": "Basal ganglia is common site of bleeding"
+    },
+    {
+      "question": "Wrongly describes feature of subarachnoid hemorrhage (SAH)",
+      "choices": [
+        "Most un-ruptured aneurysms are symptomatic",
+        "Sudden headache with out focal neurologic deficit is hall mark of SAH",
+        "Non-contrast CT scan visualizes most cases of SAH",
+        "Non-clotting, non-clearing bloody tap in 3-tube test occurs in SAH",
+        "3H-therapy is modality of therapy in unclipped or uncoiled SAH"
+      ],
+      "answer": "Most un-ruptured aneurysms are symptomatic"
+    },
+    {
+      "question": "Not complication of migraine",
+      "choices": [
+        "Migrainous infarction",
+        "Migrainous hemorrhage",
+        "Migraine-triggered hemiparesis",
+        "Blindness",
+        "Status migrainosus"
+      ],
+      "answer": "Migrainous infarction"
+    },
+    {
+      "question": "Which of the following wrongly describes about brain abscess",
+      "choices": [
+        "Direct spread from contagious site is major route of infection",
+        "Hematogenous spread tends to result in multifocal abscess",
+        "Fronto-temporal abscess is major site of brain abscess",
+        "Surgical excision is preferred than needle aspiration as surgical modality of therapy",
+        "Reduced level of consciousness on admission has poor prognosis"
+      ],
+      "answer": "Surgical excision is preferred than needle aspiration as surgical modality of therapy"
+    },
+    {
+      "question": "Not correctly describes about intra-medullary spinal cord lesion",
+      "choices": [
+        "Ascending pattern of sensory involvement",
+        "Relatively early bladder and bowel dysfunction",
+        "Early trophic change occurs",
+        "Funicular pain than radicular pain",
+        "Relatively late-onset weakness"
+      ],
+      "answer": "Ascending pattern of sensory involvement"
+    },
+    {
+      "question": "Not true regarding acute bacterial meningitis",
+      "choices": [
+        "S.pneumoniae is the commonest causative agent in adults",
+        "Fever, headache and nuchal rigidity are the clinical triads",
+        "Early onset-seizure has poor prognosis than delayed onset-seizure",
+        "Hyponatremia is the commonly observed electrolyte abnormality",
+        "Steroid therapy decreases adverse outcome"
+      ],
+      "answer": "Early onset-seizure has poor prognosis than delayed onset-seizure"
+    },
+    {
+      "question": "All of the following are common consequences of congenital heart disease in the adult EXCEPT",
+      "choices": [
+        "Eisenmenger syndrome",
+        "Erythrocytosis",
+        "Infective endocarditis",
+        "Pulmonary hypertension",
+        "Stroke"
+      ],
+      "answer": "Stroke"
+    },
+    {
+      "question": "All the following patients should be evaluated for secondary causes of hypertension EXCEPT",
+      "choices": [
+        "A 25 years old female with hematuria and blood pressure of 160/90",
+        "A 32 years old male with strong family history of hypertension and renal failure who blood pressure of 150/95",
+        "A 40 years old male with with blood pressure of 160/90,otherwise normal.",
+        "A 30 years old female with complaints of severe headaches, weight gain, and new onset diabetes with bold pressure of 140/85",
+        "E 45 years old whose blood pressure has become increasingly difficult to control on four antihypertensive agents"
+      ],
+      "answer": "A 40 years old male with with blood pressure of 160/90,otherwise normal."
+    },
+    {
+      "question": "The treatment of choice for a patient with ventricular fibrillation is",
+      "choices": [
+        "Defibrillation",
+        "Transesophageal pacing",
+        "Synchronized cardioversion",
+        "Digoxin administration",
+        "Cardiac transplantation"
+      ],
+      "answer": "Defibrillation"
+    },
+    {
+      "question": "All of the following clinical findings are consistent with severe mitral stenosis EXCEPT",
+      "choices": [
+        "Atrial fibrillation",
+        "Opening snap late after S2",
+        "Pulmonary vascular congestion",
+        "Pulsatile liver",
+        "Right-ventricular heave"
+      ],
+      "answer": "Opening snap late after S2"
+    },
+    {
+      "question": "The usual biochemical feature of primary hyperaldostronism include",
+      "choices": [
+        "Hyperkalemia",
+        "Hypernatremia",
+        "Metabolic acidosis",
+        "Increased plasma renin activity",
+        "Hypotension"
+      ],
+      "answer": "Hypernatremia"
+    },
+    {
+      "question": "Hirsutism is caused by",
+      "choices": [
+        "Polycystic ovarian syndrome",
+        "Congenital adrenal hyperplasia",
+        "Porphyria cutanea tarda",
+        "Thyrotoxicosis",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "In Addison's disease",
+      "choices": [
+        "There is destruction of the entire adrenal cortex",
+        "Mineralocorticoid secretion is intact",
+        "Sex steroid production is excessive",
+        "There is significant hypernatremia",
+        "There is significant hypernatremia"
+      ],
+      "answer": "There is destruction of the entire adrenal cortex"
+    },
+    {
+      "question": "Glucocorticoids inhibit",
+      "choices": [
+        "Protein synthesis",
+        "Gluconeogenesis",
+        "Glycogen deposition",
+        "Fat deposition",
+        "Sodium retention"
+      ],
+      "answer": "Protein synthesis"
+    },
+    {
+      "question": "Growth hormone release",
+      "choices": [
+        "is continuous",
+        "is rarely nocturnal",
+        "occurs only in children",
+        "is increased by acute Stress",
+        "is increased by exercise"
+      ],
+      "answer": "is increased by exercise"
+    }
+  ]
