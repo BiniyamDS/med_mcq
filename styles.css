@@ -1,35 +1,44 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    font-family: 'Roboto', sans-serif; /* Changed to a modern font */
+    background-color: #f0f2f5; /* Changed to a light gray background */
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
-    align-items: center;
-    height: 100vh;
+    align-items: flex-start; /* Changed to flex-start to prevent cutting off the top */
+    min-height: 100vh; /* Changed height to min-height */
 }
 
 #quiz-container {
-    background: white;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 80%;
-    max-width: 600px;
+    background: #ffffff;
+    padding: 30px; /* Increased padding for a more spacious look */
+    border-radius: 12px; /* Increased border-radius for a more modern look */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Softer shadow for a modern look */
+    width: 90%;
+    max-width: 700px; /* Increased max-width */
+    margin-top: 30px; /* Increased margin-top */
 }
 
-#question-type-container {
+#question-type-container, #category-container {
     margin-bottom: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-#question-type {
-    padding: 10px;
+#question-type, #category {
+    padding: 12px; /* Increased padding */
     margin-left: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    border: 1px solid #ddd; /* Changed border color to a lighter gray */
+    border-radius: 8px; /* Increased border-radius */
+    background-color: #f9f9f9; /* Light gray background for inputs */
+    font-size: 1em; /* Increased font size */
+}
+
+#navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px; /* Added margin to separate from the question */
 }
 
 #question-container {
@@ -37,8 +46,9 @@ body {
 }
 
 #question {
-    font-size: 1.2em;
-    font-weight: normal;
+    font-size: 1.6em; /* Increased font size for better readability */
+    font-weight: bold; /* Made the question text bold */
+    color: #333; /* Dark gray color for the question text */
 }
 
 #choices {
@@ -47,12 +57,7 @@ body {
 }
 
 #choices li {
-    margin-bottom: 10px;
-}
-
-#navigation {
-    display: flex;
-    justify-content: space-between;
+    margin-bottom: 15px; /* Increased margin-bottom */
 }
 
 #jump-container {
@@ -63,20 +68,29 @@ body {
 }
 
 #jump-container input {
-    padding: 10px;
+    padding: 12px; /* Increased padding */
     margin-right: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    width: 100px;
+    border: 1px solid #ddd; /* Changed border color to a lighter gray */
+    border-radius: 8px; /* Increased border-radius */
+    width: 120px; /* Increased width */
+    background-color: #f9f9f9; /* Light gray background for inputs */
+    font-size: 1em; /* Increased font size */
 }
 
 button {
-    padding: 10px 20px;
+    padding: 12px 24px; /* Increased padding */
     border: none;
-    border-radius: 5px;
+    border-radius: 8px; /* Increased border-radius */
     background-color: #007BFF;
     color: white;
     cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s; /* Smooth transition for hover effect */
+    font-size: 1em; /* Increased font size */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    transform: translateY(-2px); /* Slight lift on hover */
 }
 
 button:disabled {
@@ -86,9 +100,10 @@ button:disabled {
 #result {
     margin-top: 20px;
     font-weight: bold;
-    padding: 10px;
-    border-radius: 5px;
+    padding: 12px; /* Increased padding */
+    border-radius: 8px; /* Increased border-radius */
     text-align: center;
+    font-size: 1.2em; /* Increased font size */
 }
 
 #result.correct {
@@ -101,4 +116,31 @@ button:disabled {
     background-color: #f8d7da;
     color: #721c24;
     border: 1px solid #f5c6cb;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    #quiz-container {
+        width: 95%;
+        padding: 20px; /* Adjusted padding for mobile */
+    }
+
+    #question-type-container, #category-container, #navigation, #jump-container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    #question-type, #category, #jump-container input, button {
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    #navigation {
+        flex-direction: column;
+    }
+
+    #navigation button {
+        width: 100%;
+        margin: 5px 0;
+    }
 }
