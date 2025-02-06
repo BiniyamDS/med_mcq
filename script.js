@@ -1,6 +1,7 @@
 let questions = [];
 let currentQuestionIndex = 0;
 let userAnswers = [];
+let allQuestions = [];
 
 document.addEventListener("DOMContentLoaded", () => {
   loadQuestions("data.json");
@@ -10,6 +11,10 @@ document.addEventListener("DOMContentLoaded", () => {
     .addEventListener("change", (event) => {
       loadQuestions(event.target.value);
     });
+
+  document.getElementById("category").addEventListener("change", (event) => {
+    filterQuestionsByCategory(event.target.value);
+  });
 
   document.getElementById("check-btn").addEventListener("click", () => {
     checkAnswer();
@@ -44,13 +49,52 @@ function loadQuestions(file) {
   fetch(file)
     .then((response) => response.json())
     .then((data) => {
-      questions = data;
+      allQuestions = data;
+      questions = allQuestions;
       currentQuestionIndex = 0;
+      populateCategories();
       loadQuestion();
+    })
+    .catch((error) => {
+      console.error("Error loading questions:", error);
     });
 }
 
+function populateCategories() {
+  const categorySelect = document.getElementById("category");
+  categorySelect.innerHTML = "<option value=''>All</option>";
+  const topics = new Set();
+  allQuestions.forEach((question) => {
+    if (question.topic) {
+      topics.add(question.topic);
+    }
+  });
+  topics.forEach((topic) => {
+    const option = document.createElement("option");
+    option.value = topic;
+    option.textContent = topic;
+    categorySelect.appendChild(option);
+  });
+}
+
+function filterQuestionsByCategory(category) {
+  if (category === "") {
+    questions = allQuestions;
+  } else {
+    questions = allQuestions.filter(
+      (question) => question.topic === category
+    );
+  }
+  currentQuestionIndex = 0;
+  loadQuestion();
+}
+
 function loadQuestion() {
+  if (questions.length === 0) {
+    document.getElementById("question").textContent = "No questions available.";
+    document.getElementById("choices").innerHTML = "";
+    return;
+  }
   const question = questions[currentQuestionIndex];
   document.getElementById("question").textContent = `${
     currentQuestionIndex + 1

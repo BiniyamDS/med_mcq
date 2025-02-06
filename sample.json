@@ -1,0 +1,1494 @@
+
+[
+    {
+      "question": "Which of the following is NOT a typical characteristic of a patient with Duchenne's muscular dystrophy?",
+      "choices": [
+        "Onset of symptoms before age 5",
+        "Progressive proximal muscle weakness",
+        "Elevated creatine kinase levels",
+        "Female gender"
+      ],
+      "answer": "Female gender",
+      "topic": "Neurology"
+    },
+  {
+      "question": "A 65 year old male presented with sudden onset of left sided weakness, involving the face ,upper limb and lower limb; which of the following statement is true?",
+        "choices":[
+          "It is less likely UMNL",
+            "It could be subcortical lesion",
+          "It is likely LMNL",
+           "It is likely cortical lesion"
+   ],
+      "answer": "It could be subcortical lesion",
+      "topic": "Neurology"
+    },
+  
+      {
+      "question": "A 32 year old male came to your OPD complaining of transient episodes of double vision and drop attack. The likely localization of this patient will be?",
+       "choices":[
+         "Cortex",
+           "Brain stem",
+          "Peripheral nerve",
+         "Neuromuscular junction"
+         ],
+          "answer":"Brain stem",
+          "topic":"Neurology"
+      },
+  
+   {
+      "question": "Which of the following can be used as a diagnostic test for multiple sclerosis?",
+      "choices": [
+        "Presence of oligoclonal bands in CSF",
+        "MRI finding of periventricular white matter lesion",
+        "VEP",
+        "All"
+      ],
+      "answer": "All",
+      "topic": "Neurology"
+    },
+    {
+      "question": "What is the initial management of myasthenic crisis?",
+      "choices": [
+        "Administering acetylcholinestrase inhibitors",
+        "Mechanical ventilation",
+        "Plasmapheresis",
+        "IVIG"
+      ],
+      "answer": "Mechanical ventilation",
+      "topic": "Neurology"
+    },
+    {
+      "question": "Which statement best describes the tremor in Parkinson's disease?",
+      "choices": [
+        "Improves with action",
+        "Present at rest",
+        "Worse at rest",
+        "Same at rest and during movement"
+      ],
+      "answer": "Worse at rest",
+      "topic": "Neurology"
+    },
+    {
+      "question": "The following is true of TIA except",
+      "choices": [
+        "It is brief episode of neurologic dysfunction",
+        "It can be caused by vasospasm",
+        "Antiplatelets are indicated for all patients with TIA",
+        "The most common cause of TIA is cardiac emboli"
+      ],
+      "answer": "The most common cause of TIA is cardiac emboli",
+      "topic": "Neurology"
+    },
+      {
+      "question": "Regarding peripheral neuropathy which of the following is true?",
+      "choices": [
+        "Proximal muscle weakness is common",
+        "Autonomic function is normal in most cases",
+        "It rarely causes sensory symptoms",
+        "Motor weakness is length dependent"
+      ],
+      "answer": "Motor weakness is length dependent",
+      "topic": "Neurology"
+    },
+   {
+      "question": "Regarding Wallenberg syndrome all of the following are true except",
+      "choices":[
+          "results from lesion in the lateral medulla",
+        "Results from occulsion of PICA",
+           "There is ipsilateral loss of pain and temperature over the body",
+           "There is ipsilateral loss of pain and temperature over the face",
+             "Vertigo and nystagmus are common presentation"
+       ],
+          "answer":"There is ipsilateral loss of pain and temperature over the body",
+          "topic": "Neurology"
+      },
+  
+    {
+      "question": "Which of the following is a characteristic feature of Myasthenia Gravis?",
+      "choices":[
+        "Diplopia",
+          "Ptosis",
+          "Proximal muscle weakness",
+          "All"
+      ],
+      "answer": "All",
+      "topic": "Neurology"
+    },
+      {
+      "question": "Bell’s palsy involves:",
+        "choices":[
+          "CN V",
+          "CN IX",
+           "CN VII",
+           "CN X"
+        ],
+      "answer": "CN VII",
+      "topic": "Neurology"
+    },
+       {
+      "question": "Choose the most likely aetiology of transverse myelitis with hyperintense T2-weighted MRI lesions:",
+        "choices":[
+          "Multiple sclerosis",
+          "Sarcoidosis",
+           "SLE",
+          "Vitamin B12 deficiency"
+        ],
+      "answer": "Multiple sclerosis",
+      "topic": "Neurology"
+    },
+  
+  
+       {
+          "question": "Which of the following statements regarding the treatment of tuberculosis is incorrect?",
+          "choices": [
+            "Treatment of latent tuberculosis infection (LTBI) can prevent progression to active disease.",
+            "A four-drug regimen is typically used for initial treatment of active tuberculosis.",
+            "Directly observed therapy (DOT) is not recommended for the treatment of tuberculosis.",
+            "Treatment duration for pulmonary tuberculosis is typically six months."
+          ],
+          "answer": "Directly observed therapy (DOT) is not recommended for the treatment of tuberculosis.",
+          "topic": "Infectious Diseases"
+        },
+  {
+      "question": "Which of the following statements correctly describes the clinical course of internal derangement of TMJ",
+      "choices": [
+       "Locking of the jaw is more common than posterior displacement of the disk",
+       "Clicking of the joint is less common than locking of the jaw",
+       "Pain is less common than locking of the jaw",
+      "Clicking , locking and limited opening occur in all cases."
+      ],
+      "answer": "Clicking of the joint is less common than locking of the jaw",
+      "topic": "Neurology"
+    },
+      {
+      "question": "Which of the following statements correctly describes an epidural hematoma?",
+        "choices":[
+          "Can result from laceration of middle meningeal vein",
+         "Rapidly progressing form of bleeding ",
+          "Can be associated with lucid interval",
+          "Associated with fracture of the spine"
+        ],
+        "answer": "Rapidly progressing form of bleeding",
+        "topic": "Neurology"
+     },
+       {
+      "question": "All the followings are commonly used non opiod analgesics except?",
+        "choices":[
+          "NSIADs",
+           "acetaminophen",
+           "tramadol",
+           "cox 2 inhibitors"
+        ],
+      "answer": "tramadol",
+      "topic": "Neurology"
+     },
+    {
+      "question": "which one of the following is used to treat trigeminal neuralgia?",
+        "choices":[
+       "gabapentin",
+          "carbamazepine",
+          "phenytoin",
+           "All"
+        ],
+      "answer": "All",
+      "topic": "Neurology"
+     },
+  
+     {
+      "question": "All the followings can cause dementia except?",
+      "choices":[
+       "Binswanger disease",
+      "Normal pressure hydrocephalus",
+       "alzheimer disease",
+        "Frontotemporal disease"
+      ],
+      "answer":"B. Approach to Fever & Fever with Rash",
+      "topic": "Neurology"
+     },
+  
+     {
+        "question": "Choose the INCORRECT statement:",
+         "choices":[
+           "Bacterial infection is a risk factor for seizure",
+           "Electrolyte derangments are risk factors for seizure",
+           "Normal EEG completely rules out epilepsy",
+             "Focal deficit is a feature of seizure",
+             "Altered Mental status is feature of seizure"
+         ],
+        "answer": "Normal EEG completely rules out epilepsy",
+          "topic": "Neurology"
+      },
+  
+      {
+       "question": "Which statement is true",
+       "choices":[
+        "Headache is typically the first symptom of a brain tumor",
+         "Most headches are secondary",
+          "Migraine is more likely to be worsened by the Valsalva maneuver than cluster headache",
+        "All migraine headaches are preceded by aura",
+          "Tension-type headache commonly awakens patients from sleep"
+  
+       ],
+       "answer": "Headache is typically the first symptom of a brain tumor",
+       "topic": "Neurology"
+       },
+      {
+        "question": "which one of the following is the initial presenting symptom of Parkinson's disease in the majority of patients?",
+       "choices":[
+       "Bradykinesia",
+       "Rigidity",
+      "Postural instability",
+       "Resting tremor"
+       ],
+       "answer": "Resting tremor",
+       "topic": "Neurology"
+     },
+      {
+      "question": "Regarding Myasthenia Gravis, the following are true, EXCEPT?",
+        "choices":[
+          "Edrophonium test is negative in Lambert-Eaton myasthenic syndrome.",
+           "Repetitive nerve stimulation shows progressively increasing CMAP amplitude.",
+            "Single fiber EMG shows increased jitter.",
+           "Thymectomy is a helpful therapeutic modality",
+           "Pyridostigmine is helpful for managing symptoms"
+        ],
+          "answer": "Repetitive nerve stimulation shows progressively increasing CMAP amplitude",
+          "topic": "Neurology"
+      },
+  
+      {
+      "question": "Which of the following is the most common complication of bacterial meningitis?",
+      "choices": [
+        "Seizures",
+        "Subdural effusion",
+       "Cerebral infarction",
+      "Cerebral edema",
+         "Hearing loss"
+      ],
+      "answer": "Hearing loss",
+      "topic": "Infectious Diseases"
+    },
+     {
+     "question": "All of the following statements about CSF analysis are correct, EXCEPT:",
+      "choices": [
+       "Bacterial meningitis commonly presents with neutrophilic pleocytosis and hypoglycorrhachia",
+        "Opening CSF pressure is usually elevated in patients with meningitis",
+          "Normal CSF findings exclude the diagnosis of meningitis.",
+         "Cryptococcal meningitis can present with normal CSF glucose.",
+         "Viral meningitis typically has normal CSF glucose and elevated protein levels."
+      ],
+      "answer": "Normal CSF findings exclude the diagnosis of meningitis.",
+      "topic": "Infectious Diseases"
+    },
+    {
+     "question": "A 30-year-old man presented with alteredmental status. On examination, he has a  temperature of 38.9°C and nuchal rigidity.Lumbar puncture shows a WBC count of  2,500/mm3 (90% neutrophils), a glucose level of 30 mg/dL, and a protein  level of 200 mg/dL. Gram stain shows gram- positive diplococci. What is the most appropriate empiric antibiotic choice?",
+      "choices": [
+      "Acyclovir",
+        "Amphotericin B",
+        "Ceftriaxone and vancomycin",
+      "Penicillin G",
+      "Ampicillin and gentamicin"
+      ],
+      "answer": "Ceftriaxone and vancomycin",
+      "topic": "Infectious Diseases"
+    },
+     {
+      "question": "Which of the following are NOT potential causes of chronic meningitis?",
+        "choices":[
+          "Fungal infections",
+          "Mycobacterium tuberculosis",
+           "Neoplastic disorders",
+            "Treponema pallidum",
+          "All of the above are causes"
+        ],
+      "answer": "All of the above are causes",
+      "topic": "Infectious Diseases"
+     },
+       {
+      "question": "Which of the following distinguishes bacterial meningitis from aseptic meningitis?",
+      "choices":[
+      "Lymphocytic pleocytosis",
+        "Elevated CSF protein",
+       "Presence of headache",
+      "Normal CSF glucose",
+         "Nuchal rigidity"
+      ],
+      "answer": "Nuchal rigidity",
+      "topic": "Infectious Diseases"
+    },
+     {
+      "question": "Which is not a content of CSF?",
+       "choices":[
+       "Proteins",
+      "Lymphocytes",
+      "Red blood cells",
+     "Glucose",
+       "Chloride"
+       ],
+      "answer": "Red blood cells",
+      "topic": "Infectious Diseases"
+      },
+  
+      {
+      "question": "All the followings are known causes of meningitis, except:",
+      "choices":[
+      "Bacteria",
+      "Fungus",
+       "Parasites",
+       "Amoeba",
+      "Viruses"
+      ],
+      "answer":"Parasites",
+      "topic": "Infectious Diseases"
+    },
+    {
+        "question": "What is the most parseable finding in the CSF analysis suggestive of Bacterial meningitis?",
+        "choices": [
+            "Lymphocytic pleocytosis",
+            "Low protein",
+            "Low glucose",
+            "High opening pressure",
+            "High RBC count"
+        ],
+        "answer": "Low glucose",
+        "topic": "Infectious Diseases"
+    },
+    {
+        "question": "Which of the following is the most appropriate empiric therapy for suspected bacterial meningitis in a 40-year-old immunocompetent adult?",
+        "choices": [
+            "Penicillin G",
+            "Ceftriaxone and vancomycin",
+            "Ampicillin and gentamicin",
+            "Acyclovir",
+            "Metronidazole"
+        ],
+        "answer": "Ceftriaxone and vancomycin",
+        "topic": "Infectious Diseases"
+    },
+    {
+        "question": "Which organism is the most common cause of community-acquired bacterial meningitis in adults?",
+        "choices": [
+            "Streptococcus pneumoniae",
+            "Neisseria meningitidis",
+            "Haemophilus influenzae",
+            "Listeria monocytogenes",
+            "Escherichia coli"
+        ],
+        "answer": "Streptococcus pneumoniae",
+        "topic": "Infectious Diseases"
+    },
+   {
+      "question":"All are examples of helminthic infections, EXCEPT",
+       "choices":[
+        "Ascariasis",
+         "Toxoplasmosis",
+          "Trichuriasis",
+         "Hook worm",
+         "Strongyloidiasis"
+       ],
+       "answer": "Toxoplasmosis",
+       "topic": "Infectious Diseases"
+    },
+    {
+      "question":"The most common risk factor for developing Brucellosis is",
+       "choices":[
+           "Travel to africa",
+         "eating food contaminated by rodents feces",
+         "Immunocompromised status",
+         "Contact with animals or their product",
+         "living in the high lands"
+       ],
+         "answer": "Contact with animals or their product",
+         "topic": "Infectious Diseases"
+   },
+
+   {
+      "question":"All are true about brucellosis,Except",
+       "choices":[
+          "Can cause undulating fever",
+           "Leprosy is its common DDx",
+          "Can result in osteoarticular problem",
+          "Treated with combination antibiotics",
+          "Ceftriaxone is the drug of choice "
+       ],
+        "answer": "Ceftriaxone is the drug of choice",
+        "topic": "Infectious Diseases"
+    },
+
+    {
+        "question": "Which statement is FALSE about the classic triad of symptoms in typhoid fever?",
+        "choices": [
+            "It includes fever, relative bradycardia, and rose spots.",
+            "It is diagnostic of typhoid fever.",
+            "The fever is often stepwise in nature.",
+            "Relative bradycardia is a pulse-temperature dissociation.",
+            "Rose spots are blanching, maculopapular rashes."
+        ],
+        "answer": "It is diagnostic of typhoid fever.",
+        "topic": "Infectious Diseases"
+    },
+
+    {
+        "question": "All are features of shigelosis, Except?",
+        "choices": [
+            "It is caused by a gram-positive rod",
+            "It causes inflammatory diarrhea",
+            "Febrile seizure is common in children",
+            "High risk of bacteremia in immunocompromised",
+            "HUS and TTP can complicate shigellosis"
+        ],
+        "answer": "It is caused by a gram-positive rod",
+        "topic": "Infectious Diseases"
+    },
+     {
+        "question": "Which of the following is NOT a recommended first-line agent for the treatment of cholera?",
+        "choices": [
+            "Azithromycin",
+            "Doxycycline",
+            "Ciprofloxacin",
+            "Tetracycline",
+            "Erythromycin"
+        ],
+        "answer": "Erythromycin",
+        "topic": "Infectious Diseases"
+    },
+    {
+        "question": "All are true about Ebola virus, except?",
+        "choices": [
+            "Bat is the natural reservoir of the virus",
+            "Causes hyperthermia",
+            "Associated with rash",
+            "A and B are correct",
+            "All are correct"
+        ],
+        "answer": "A and B are correct",
+        "topic": "Infectious Diseases"
+    },
+{
+      "question":"All are true regarding approach to fever with rash",
+       "choices":[
+          "The elevation of PGE2 in the brain is the starting process of raising hypothalamic set point",
+           "Fever, by definition is, an elevation in core body temperature above the normal daily fluctuations, due to an elevated hypothalamic set point",
+           "Exogenous heat exposure or endogenous heat production are the main mechanisms of fever",
+          "Hyperthermia doesn’t involve hypothalamic set point alteration",
+           "All are correct"
+           ],
+       "answer": "Hyperthermia doesn’t involve hypothalamic set point alteration",
+       "topic": "Infectious Diseases"
+    },
+   {
+      "question":"All are causes of centrally distributed maculopapular rash, except?",
+       "choices":[
+          "Measles",
+         "Drug-induced eruptions",
+          "German measles",
+          "Endocarditis",
+         "Collagen vascular diseases"
+       ],
+        "answer": "Endocarditis",
+        "topic": "Infectious Diseases"
+    },
+      {
+        "question": "Which of the following is NOT a characteristic feature of disseminated candidiasis?",
+        "choices": [
+          "Occurs in immunocompromised hosts",
+          "May resemble molluscum contagiosum",
+          "Aspergillosis should be considered in the differential diagnosis",
+          "Can be peripheral, eruptions",
+          "Can cause purpuric lesions"
+        ],
+        "answer": "Can be peripheral, eruptions",
+        "topic": "Infectious Diseases"
+      },
+
+        {
+        "question": "Which of the following is the most accurate investigation for diagnosis of tuberculosis in sputum samples?",
+        "choices": [
+            "Microscopy with Ziehl-Neelsen stain",
+            "Culture on Lowenstein-Jensen media",
+            "Polymerase chain reaction (PCR)",
+            "Tuberculin skin test",
+          "Chest X-ray"
+        ],
+        "answer": "Culture on Lowenstein-Jensen media",
+        "topic": "Infectious Diseases"
+        },
+
+        {
+             "question": "What is the recommended treatment for a patient with active pulmonary tuberculosis and HIV co-infection?",
+             "choices":[
+               "Standard four-drug anti-TB regimen for 6 months.",
+                "Standard four-drug anti-TB regimen for 9 months.",
+               "Standard four-drug anti-TB regimen plus antiretroviral therapy started within 2 weeks.",
+                "Standard four-drug anti-TB regimen plus antiretroviral therapy started after 8 weeks.",
+              "Isoniazid preventive therapy (IPT) alone"
+             ],
+             "answer": "Standard four-drug anti-TB regimen plus antiretroviral therapy started within 2 weeks.",
+            "topic": "Infectious Diseases"
+        },
+        {
+            "question": "Which of the following is the recommended treatment for latent tuberculosis infection (LTBI) in individuals with HIV infection?",
+            "choices":[
+               "Isoniazid for 6 months",
+              "Rifampicin for 4 months",
+              "Isoniazid and rifapentine once weekly for 3 months",
+             "No treatment is needed",
+              "Treatment depends on the CD4 count"
+            ],
+             "answer": "Isoniazid for 6 months",
+             "topic": "Infectious Diseases"
+        },
+        {
+            "question": "Which of the following diagnostic criteria suggests a possibility of tuberculosis infection?",
+            "choices": [
+              "Cavitary lesion",
+              "Miliary mottling",
+              "Pleural effusion",
+             "All of the above"
+            ],
+            "answer": "All of the above",
+            "topic": "Infectious Diseases"
+        },
+        {
+          "question": "A patient with a history of heart failure is at what stage of the disease according to NYHA classification if he/she is only comfortable at rest?",
+            "choices":[
+            "Stage A",
+              "Stage B",
+              "Stage C",
+             "Stage D",
+               "Stage E"
+            ],
+          "answer": "Stage D",
+          "topic": "Cardiovascular System"
+        },
+        {
+          "question": "Which of the following is most likely a clinical finding in a patient with Cor Pulmonale?",
+          "choices": [
+            "Inverted T wave",
+            "Hypotension",
+            "Jugular venous distension",
+            "Left ventricular hypertrophy",
+            "Pulmonary edema"
+          ],
+          "answer": "Jugular venous distension",
+          "topic": "Cardiovascular System"
+        },
+{
+    "question": "Which one is a major criteria for the diagnosis of Rheumatic heart disease?",
+    "choices":[
+        "Arthralgia",
+        "Fever",
+        "Carditis",
+        "Elevated ESR",
+      "Prolonged PR interval"
+    ],
+    "answer": "Carditis",
+    "topic": "Cardiovascular System"
+  },
+        {
+          "question": "All the following are cardiovascular manifestations of SLE, EXCEPT?",
+           "choices":[
+               "Pericarditis",
+              "Myocarditis",
+               "Valvular heart disease",
+               "Coronary artery disease",
+              "Raynaud's phenomenon"
+           ],
+          "answer": "Raynaud's phenomenon",
+          "topic": "Cardiovascular System"
+        },
+        {
+       "question": "Which of the following is a common finding in patients with cardiac tamponade?",
+          "choices":[
+            "Hypertension",
+           "Pulsus paradoxus",
+            "Bradycardia",
+            "S4 gallop",
+             "Increased JVP"
+          ],
+         "answer": "Pulsus paradoxus",
+         "topic": "Cardiovascular System"
+       },
+
+       {
+          "question": "A patient with aortic stenosis is likely to have all of the following features EXCEPT",
+          "choices":[
+            "Syncope",
+            "Angina",
+             "Dyspnea",
+             "Sudden death",
+             "Sustained PMI"
+            ],
+         "answer": "Sustained PMI",
+         "topic": "Cardiovascular System"
+       },
+      {
+      "question": "Which of the following is characteristic of a patient with mitral stenosis?",
+     "choices":[
+      "Diastolic murmur",
+       "Systolic murmur",
+     "Associated with increased risk of infective endocarditis",
+     "Best heard at the apex",
+     "Radiates to the carotids"
+        ],
+      "answer": "Diastolic murmur",
+      "topic": "Cardiovascular System"
+        },
+        {
+        "question": "The murmur of mitral regurgitation is typically described as:",
+        "choices":[
+          "Holosystolic",
+          "Crescendo-decrescendo",
+            "Diastolic",
+          "Continuous",
+            "Harsh and musical"
+        ],
+        "answer": "Holosystolic",
+        "topic": "Cardiovascular System"
+      },
+
+       {
+       "question": "What is a characteristic finding in restrictive cardiomyopathy?",
+        "choices":[
+        "S4 gallop",
+         "Systolic anterior motion (SAM) of the mitral valve",
+        "Paradoxical pulse",
+        "Hyperdynamic precordium",
+         "Pulsus alternans"
+       ],
+         "answer": "Paradoxical pulse",
+         "topic": "Cardiovascular System"
+      },
+       {
+          "question": "Which of the following is the most common cause of constrictive pericarditis worldwide?",
+           "choices":[
+             "Viral infection",
+             "Bacterial infection",
+              "Tuberculosis",
+             "Radiation therapy",
+            "Cardiac surgery"
+           ],
+          "answer": "Tuberculosis",
+          "topic": "Cardiovascular System"
+        },
+        {
+        "question": "Pulsus paradoxus is a characteristic finding in:",
+         "choices":[
+          "Cardiac tamponade",
+        "Constrictive pericarditis",
+        "Restrictive cardiomyopathy",
+          "Hypertrophic cardiomyopathy",
+          "Dilated cardiomyopathy"
+         ],
+         "answer": "Cardiac tamponade",
+         "topic": "Cardiovascular System"
+        },
+         {
+        "question": "Which of the following is characteristic of Dressler's syndrome?",
+         "choices":[
+           "Occurs immediately after myocardial infarction",
+            "Associated with a new, high-grade fever",
+          "Treated with high-dose aspirin",
+            "Rarely recurs",
+           "All of the above"
+         ],
+         "answer": "All of the above",
+         "topic": "Cardiovascular System"
+       },
+    {
+    "question": "Which of the following is NOT a feature of Hypertrophic Cardiomyopathy?",
+    "choices":[
+        "Diastolic dysfunction",
+        "Sudden cardiac death",
+       "Mitral valve prolapse",
+       "Syncope",
+        "Angina"
+    ],
+    "answer": "Mitral valve prolapse",
+    "topic": "Cardiovascular System"
+  },
+
+  {
+      "question": "A 55-year-old patient with chronic heart failure presents with worsening shortness of breath. Examination reveals elevated JVP, peripheral edema, and bibasilar crackles. Which of the following classes of drugs would be most beneficial in managing this patient's symptoms by reducing preload and afterload?",
+       "choices":[
+        "Beta-blockers",
+         "ACE inhibitors",
+          "Diuretics",
+          "Digoxin",
+          "Nitrates"
+       ],
+      "answer": "ACE inhibitors",
+      "topic": "Cardiovascular System"
+  },
+
+    {
+    "question": "Which of the following physical findings on cardiac auscultation is specific for mitral stenosis?",
+    "choices":[
+      "Mid-systolic click",
+        "Opening snap",
+      "S3 gallop",
+        "S4 gallop",
+       "Pericardial knock"
+    ],
+    "answer": "Opening snap",
+    "topic": "Cardiovascular System"
+  },
+
+
+ {
+   "question": "Which of the following is NOT a common sign or symptom of heart failure?",
+    "choices":[
+     "Dyspnea",
+   "Edema",
+     "Fatigue",
+    "Weight loss",
+     "Orthopnea"
+    ],
+   "answer": "Weight loss",
+    "topic": "Cardiovascular System"
+  },
+
+
+   {
+    "question": "The two groups of Lymphomas include: ",
+    "choices":[
+       "Hodgkin's lymphoma& Non-Hodgkin's lymphoma",
+      "Lymphocytic and myelocytic",
+       "Hodgkin’s lymphoma& leukemia",
+      "B-cell and T- cell lymphoma",
+       "Acute and chronic"
+    ],
+    "answer": "Hodgkin's lymphoma& Non-Hodgkin's lymphoma",
+    "topic": "Hematology"
+  },
+   {
+    "question": "All of the following are criteria used to diagnose Multiple Myeloma EXCEPT:",
+     "choices":[
+      "Monoclonal plasma cells in the bone marrow",
+       "Presence of monoclonal protein in the serum or urine",
+       "Organ or tissue impairment (CRAB criteria)",
+       "Presence of Bence Jones proteins in the urine",
+       "Lytic bone lesions on radiography"
+     ],
+     "answer": "Presence of Bence Jones proteins in the urine",
+     "topic": "Hematology"
+  },
+
+   {
+    "question": "Which of the following is the most common type of leukemia in adults?",
+     "choices":[
+      "Acute myeloid leukemia (AML)",
+      "Chronic myeloid leukemia (CML)",
+       "Acute lymphoblastic leukemia (ALL)",
+      "Chronic lymphocytic leukemia (CLL)"
+     ],
+    "answer": "Chronic lymphocytic leukemia (CLL)",
+    "topic": "Hematology"
+  },
+  {
+    "question": "Which of the following is a characteristic feature of hairy cell leukemia?",
+     "choices":[
+       "Pancytopenia",
+      "Splenomegaly",
+        "Presence of hairy cells on peripheral blood smear",
+      "All of the above"
+     ],
+    "answer": "All of the above",
+    "topic": "Hematology"
+  },
+
+ {
+    "question": "Which of the following is a characteristic feature of polycythemia vera?",
+      "choices":[
+       "Increased red blood cell mass",
+         "Decreased erythropoietin levels",
+        "Presence of the JAK2 mutation",
+        "All of the above"
+      ],
+     "answer": "All of the above",
+     "topic": "Hematology"
+   },
+
+     {
+    "question": "What is the first-line treatment for essential thrombocythemia in patients at high risk of thrombosis?",
+      "choices":[
+        "Aspirin",
+         "Hydroxyurea",
+        "Anagrelide",
+        "Interferon alfa",
+         "Busulfan"
+      ],
+     "answer": "Hydroxyurea",
+     "topic": "Hematology"
+  },
+  {
+    "question": "Which of the following is a common complication of myelofibrosis?",
+     "choices":[
+     "Extramedullary hematopoiesis",
+      "Splenomegaly",
+       "Portal hypertension",
+      "All of the above",
+        "Leukopenia"
+     ],
+    "answer": "All of the above",
+    "topic": "Hematology"
+  },
+  {
+    "question": "A 60 year old known hypertensive pre.sented with sever headache and seizure, His BP= 230/128mmHg, PR=48,RR=26, T0=36.7. what is your next step?",
+     "choices":[
+      "Give anti HTN and observe the respons",
+       "Do CT- Scan head",
+       "Do Lumber puncture",
+      "Give IV fluid and observe",
+      "Give Diazepam IV"
+     ],
+      "answer":"Do CT- Scan head",
+    "topic": "Hematology"
+  },
+  {
+    "question": "Which of the following is NOT a typical finding in the peripheral blood smear of a patient with iron deficiency anemia?",
+    "choices":[
+      "Microcytosis",
+     "Hypochromia",
+      "Anisocytosis",
+     "Target cells",
+        "Howell-Jolly bodies"
+      ],
+     "answer": "Howell-Jolly bodies",
+     "topic": "Hematology"
+    },
+
+  {
+    "question": "Which of the following is the most appropriate initial treatment for a patient with severe aplastic anemia?",
+  "choices":[
+     "Bone marrow transplantation",
+    "Immunosuppressive therapy",
+     "Androgen therapy",
+    "Erythropoietin therapy",
+    "Iron chelation therapy"
+     ],
+    "answer": "Bone marrow transplantation",
+    "topic": "Hematology"
+  },
+  {
+    "question": "Which of the following statements about acute leukemias is TRUE?",
+     "choices":[
+     "They are characterized by the proliferation of mature, differentiated cells.",
+     "They are always caused by genetic mutations.",
+       "They typically have a slow and indolent course.",
+       "They can be classified into myeloid and lymphoid subtypes.",
+      "They are more common in children than in adults"
+     ],
+    "answer": "They can be classified into myeloid and lymphoid subtypes.",
+    "topic": "Hematology"
+  },
+
+  {
+      "question": "The commonest presenting feature of a patient with acute leukemia is/are?",
+       "choices":[
+        "Fever",
+          "Bleeding",
+          "Fatigue",
+           "Organomegally",
+          "Lymphadenopathy"
+       ],
+      "answer": "Fever",
+      "topic": "Hematology"
+  },
+   {
+    "question": "All of the following are characteristic features of multiple myeloma, EXCEPT:",
+      "choices":[
+       "Monoclonal gammopathy",
+        "Lytic bone lesions",
+        "Hypercalcemia",
+       "Renal failure",
+        "Thrombocytosis"
+      ],
+     "answer": "Thrombocytopenia",
+     "topic": "Hematology"
+   },
+  {
+      "question": "Which statement is most likely true about a chronic, generalized, firm to hard, mobile and non-tender lymphadenopathy?",
+       "choices":[
+       "It is commonly infectious in origin",
+       "It is most likely due to inflammatory causes",
+        "It is less likely due to malignant cause",
+         "It is most probably due to malignant causes",
+        "It is more likely in children"
+       ],
+      "answer": "It is most probably due to malignant causes",
+      "topic": "Hematology"
+  },
+  {
+      "question": "All of the following are true about the management of Pneumocystis jirovecii pneumonia (PCP) EXCEPT:",
+       "choices":[
+       "Trimethoprim-sulfamethoxazole is the first-line treatment.",
+      "Corticosteroids should be added in severe cases.",
+      "Prophylaxis is recommended for all HIV-infected patients.",
+      "Treatment duration is typically 21 days.",
+      "Alternative treatments include pentamidine and clindamycin-primaquine."
+       ],
+      "answer": "Prophylaxis is recommended for all HIV-infected patients.",
+      "topic": "Infectious Diseases"
+    },
+  {
+      "question": "Which of the following is a common extrapulmonary manifestation of Mycoplasma pneumoniae infection?",
+      "choices":[
+       "Erythema nodosum",
+     "Hemolytic anemia",
+       "Arthritis",
+       "Glomerulonephritis",
+     "Meningitis"
+      ],
+      "answer": "Hemolytic anemia",
+      "topic": "Infectious Diseases"
+  },
+  {
+       "question": "A 65-year-old man presents with fever, cough, and pleuritic chest pain. Chest X-ray reveals a lobar consolidation. Sputum Gram stain shows gram-positive cocci in pairs. What is the most likely pathogen?",
+       "choices":[
+       "Streptococcus pneumoniae",
+       "Haemophilus influenzae",
+        "Staphylococcus aureus",
+      "Klebsiella pneumoniae",
+       "Mycoplasma pneumoniae"
+       ],
+      "answer": "Streptococcus pneumoniae",
+      "topic": "Infectious Diseases"
+    },
+    {
+      "question": "Which of the following is the recommended treatment for community-acquired pneumonia in a previously healthy adult with no recent antibiotic use?",
+        "choices":[
+         "Amoxicillin",
+          "Ceftriaxone",
+          "Azithromycin",
+          "Levofloxacin",
+         "Vancomycin"
+        ],
+        "answer": "Azithromycin",
+        "topic": "Infectious Diseases"
+      },
+       {
+        "question": "Which of the following statements about viral pneumonia is TRUE?",
+        "choices":[
+          "It is characterized by abrupt onset of high-grade fever and productive cough.",
+          "It is typically associated with lobar consolidation on chest X-ray.",
+          "It is more common in adults than in children.",
+          "It is usually self-limited and requires only supportive care.",
+          "It is always associated with bacterial co-infection."
+        ],
+        "answer": "It is usually self-limited and requires only supportive care.",
+        "topic": "Infectious Diseases"
+      },
+      {
+        "question": "Which of the following is a common opportunistic infection in patients with advanced HIV infection?",
+        "choices":[
+          "Pneumocystis jirovecii pneumonia",
+          "Tuberculosis",
+         "Cytomegalovirus pneumonia",
+         "All of the above",
+          "None of the above"
+         ],
+        "answer": "All of the above",
+        "topic": "Infectious Diseases"
+      },
+      {
+    "question": "Which of the following is a high-risk factor for MDR-TB?",
+      "choices":[
+       "Being a healthcare worker",
+        "Having a history of travel to a high-burden TB country",
+        "Having a previous history of treated TB",
+         "Being immunocompromised",
+        "Living in a crowded setting"
+      ],
+    "answer": "Having a previous history of treated TB",
+    "topic": "Infectious Diseases"
+  },
+  {
+    "question": "Which of the following is NOT a first-line drug used in the treatment of tuberculosis?",
+    "choices":[
+        "Isoniazid",
+        "Rifampicin",
+       "Pyrazinamide",
+      "Ethambutol",
+       "Streptomycin"
+    ],
+    "answer": "Streptomycin",
+    "topic": "Infectious Diseases"
+  },
+  {
+    "question": "What is the recommended duration of treatment for uncomplicated pulmonary tuberculosis?",
+    "choices":[
+     "2 months",
+      "4 months",
+     "6 months",
+       "9 months",
+      "12 months"
+    ],
+    "answer": "6 months",
+    "topic": "Infectious Diseases"
+  },
+  {
+      "question":"All are Correct about the clinical features of pulmonary TB, except?",
+        "choices":[
+          "Productive cough of more than 2 wks",
+          "Night sweating",
+          "Unintentional weight loss",
+          "Hemoptysis",
+         "All"
+        ],
+        "answer": "All",
+        "topic": "Infectious Diseases"
+      },
+
+       {
+      "question":"The most accurate/confirmatory investigation for TB is?",
+        "choices":[
+        "Chest x-ray",
+         "Sputum AFB test",
+        "Tuberculin skin test",
+        "Sputum Gene X-pert",
+        "Tissue biopsy and culture"
+        ],
+       "answer": "Tissue biopsy and culture",
+       "topic": "Infectious Diseases"
+    },
+     {
+     "question":"Which one is the wrong combination to treat active TB?",
+       "choices":[
+      "Isoniazide and rifampicin",
+        "Rifampicin and pyrazinamide",
+        "Isoniazide and pyrazinamide",
+        "Rifampicin and ethambutol",
+        "Erythromycin and ethambutol"
+       ],
+       "answer": "Erythromycin and ethambutol",
+      "topic": "Infectious Diseases"
+  },
+
+{
+    "question": "All are non-infectious causes of diarrhea EXCEPT",
+      "choices":[
+        "Ischemic colitis",
+       "Microscopic colitis",
+        "Fecal impaction",
+       "Diverticulitis",
+        "Amebiasis"
+      ],
+      "answer": "Amebiasis",
+    "topic": "Infectious Diseases"
+  },
+
+  {
+    "question": "Which of the following is the most common cause of travelers' diarrhea?",
+    "choices":[
+      "Escherichia coli",
+      "Salmonella",
+      "Shigella",
+       "Campylobacter",
+      "Vibrio cholerae"
+    ],
+    "answer": "Escherichia coli",
+    "topic": "Infectious Diseases"
+  },
+  {
+    "question": "Which of the following is NOT a recommended treatment for traveler's diarrhea?",
+   "choices":[
+      "Fluid and electrolyte replacement",
+       "Loperamide",
+      "Bismuth subsalicylate",
+       "Antibiotics (e.g., azithromycin, ciprofloxacin)",
+      "Probiotics"
+    ],
+    "answer": "Loperamide",
+    "topic": "Infectious Diseases"
+  },
+ {
+   "question":"Which of the following correctly describes the appearance of an UGI endoscopy in a patient with candidal esophagitis",
+   "choices":[
+    "Linear, yellow-white plaques with Inflamed surrounding mucosa",
+   "Punctate, red based, shallow ulcers",
+   "Large, deep, linear, solitary ulcers",
+   "Multiple petechiae with bleeding ",
+   "Volcano like ulcers with punched out appearance"
+   ],
+    "answer": "Linear, yellow-white plaques with Inflamed surrounding mucosa",
+    "topic": "Infectious Diseases"
+  },
+
+{
+    "question": "which of the following is true about herpes simplex esophagitis?",
+    "choices":[
+      "A. Usually presents with large, deep ulcers in the distal esophagus",
+      "B. Mostly affecting patients with advanced HIV infection",
+      "C. Acyclovir is the first line treatment option",
+      "D. Self limiting and rarely requires medical management",
+      "E. All"
+    ],
+    "answer": "C. Acyclovir is the first line treatment option",
+    "topic": "Infectious Diseases"
+  },
+    {
+      "question": "Which of the following is NOT a typical feature of hyperthyroidism?",
+      "choices": [
+        "Weight loss despite increased appetite",
+        "Heat intolerance",
+        "Bradycardia",
+        "Tremor",
+        "Anxiety"
+      ],
+      "answer": "Bradycardia",
+      "topic": "Endocrinology"
+    },
+    {
+      "question": "What is the most common cause of thyrotoxicosis?",
+      "choices": [
+        "Graves' disease",
+        "Toxic multinodular goiter",
+        "Toxic adenoma",
+        "Subacute thyroiditis",
+        "Exogenous thyroid hormone intake"
+      ],
+      "answer": "Graves' disease",
+      "topic": "Endocrinology"
+    },
+    {
+      "question": "Which of the following is a specific feature of Graves' disease?",
+      "choices": [
+        "Exophthalmos",
+        "Pretibial myxedema",
+        "Thyroid bruit",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": "All of the above",
+      "topic": "Endocrinology"
+    },
+     {
+      "question": "What is the treatment of choice for Graves' disease?",
+      "choices": [
+         "Antithyroid drugs",
+        "Radioactive iodine",
+        "Thyroidectomy",
+       "Beta-blockers",
+         "All except C"
+      ],
+      "answer": "All except C",
+      "topic": "Endocrinology"
+    },
+  
+    {
+      "question": "Which of the following is NOT a typical feature of hypothyroidism?",
+      "choices": [
+        "Weight gain",
+        "Cold intolerance",
+        "Constipation",
+        "Menorrhagia",
+        "Tachycardia"
+      ],
+      "answer": "Tachycardia",
+      "topic": "Endocrinology"
+    },
+    {
+      "question": "What is the most common cause of primary hypothyroidism worldwide?",
+      "choices": [
+        "Hashimoto's thyroiditis",
+        "Iodine deficiency",
+        "Post-surgical hypothyroidism",
+        "Post-radioiodine therapy",
+        "Drug-induced hypothyroidism"
+      ],
+      "answer": "Iodine deficiency",
+      "topic": "Endocrinology"
+    },
+     {
+      "question": "Which of the following statements about subclinical hypothyroidism is TRUE?",
+        "choices":[
+           "It is defined as a low serum TSH level with normal free T4.",
+            "It is always symptomatic.",
+            "It always requires treatment with levothyroxine.",
+          "It may progress to overt hypothyroidism.",
+            "It is associated with a decreased risk of cardiovascular disease."
+        ],
+       "answer": "It may progress to overt hypothyroidism.",
+      "topic": "Endocrinology"
+      },
+    {
+      "question": "What is the treatment of choice for hypothyroidism?",
+      "choices": [
+        "Levothyroxine",
+        "Liothyronine",
+        "Desiccated thyroid extract",
+        "Iodine supplementation",
+        "Thyroidectomy"
+      ],
+      "answer": "Levothyroxine",
+      "topic": "Endocrinology"
+    },
+     {
+      "question": "All are true about myxedema coma EXCEPT",
+     "choices":[
+        "Hypothermia",
+      "Bradycardia",
+        "Hypotension",
+      "Hypoglycemia",
+        "Hypernatremia"
+      ],
+      "answer":"Hypernatremia",
+      "topic": "Endocrinology"
+    },
+  {
+      "question": "All the following are common causes of hypercalcemia EXCEPT",
+      "choices":[
+         "primary hyperparathyroidism",
+        "malignancy",
+       "thiazide diuretics",
+       "vitamin D intoxication",
+       "hypothyroidism"
+      ],
+      "answer": "hypothyroidism",
+      "topic": "Endocrinology"
+    },
+  
+  {
+      "question": "Which of the following statements about chronic obstructive pulmonary disease (COPD) is TRUE?",
+      "choices":[
+        "It is characterized by reversible airflow obstruction.",
+        "It is primarily caused by exposure to noxious particles or gases, especially cigarette smoke.",
+        "It always presents with both chronic bronchitis and emphysema.",
+         "It is easily diagnosed with pulmonary function tests alone.",
+         "It is a disease exclusively affecting the lungs."
+      ],
+      "answer": "It is primarily caused by exposure to noxious particles or gases, especially cigarette smoke.",
+      "topic": "Respiratory"
+    },
+    {
+      "question": "Which of the following is NOT a typical feature of chronic bronchitis?",
+      "choices":[
+       "Productive cough for at least 3 months in each of 2 successive years",
+        "Dyspnea, particularly on exertion",
+        "Wheezing",
+        "Cyanosis",
+        "Weight loss"
+      ],
+      "answer": "Weight loss",
+      "topic": "Respiratory"
+    },
+    {
+      "question": "Which of the following is a characteristic feature of emphysema?",
+      "choices":[
+        "Increased lung elastic recoil",
+        "Decreased lung compliance",
+        "Destruction of alveolar walls",
+        "Increased airway resistance",
+        "All of the above"
+      ],
+      "answer": "Destruction of alveolar walls",
+      "topic": "Respiratory"
+    },
+    {
+      "question": "What is the most important intervention in the management of COPD?",
+      "choices":[
+       "Inhaled corticosteroids",
+        "Bronchodilators",
+        "Oxygen therapy",
+         "Smoking cessation",
+        "Pulmonary rehabilitation"
+      ],
+      "answer": "Smoking cessation",
+      "topic": "Respiratory"
+    },
+    {
+      "question": "Which of the following is NOT a typical feature of an asthma exacerbation?",
+      "choices":[
+        "Wheezing",
+        "Dyspnea",
+        "Cough",
+       "Chest tightness",
+        "Increased peak expiratory flow rate (PEFR)"
+      ],
+      "answer": "Increased peak expiratory flow rate (PEFR)",
+      "topic": "Respiratory"
+    },
+   {
+      "question": "Which of the following medications is considered a reliever in the management of asthma?",
+    "choices":[
+     "Inhaled corticosteroids",
+     "Long-acting beta-agonists (LABA)",
+     "Short-acting beta-agonists (SABA)",
+    "Leukotriene modifiers",
+    "Theophylline"
+       ],
+     "answer": "Short-acting beta-agonists (SABA)",
+     "topic": "Respiratory"
+    },
+  {
+      "question": "What is the most appropriate initial step in managing a patient with acute severe asthma?",
+   "choices":[
+     "Administering intravenous corticosteroids",
+      "Administering a short-acting beta-agonist (SABA)",
+     "Obtaining arterial blood gases",
+     "Performing a chest X-ray",
+    "Initiating mechanical ventilation"
+   ],
+   "answer": "Administering a short-acting beta-agonist (SABA)",
+   "topic": "Respiratory"
+  },
+  {
+       "question": "Which of the following is a potential side effect of inhaled corticosteroids?",
+       "choices":[
+       "Oral candidiasis",
+      "Hoarseness",
+      "Increased risk of pneumonia",
+     "All of the above",
+     "None of the above"
+      ],
+      "answer": "All of the above",
+      "topic": "Respiratory"
+  },
+  {
+       "question": "Which of the following factors is NOT included in the Global Initiative for Asthma (GINA) assessment of asthma control?",
+       "choices":[
+      "Daytime symptoms",
+      "Nighttime awakenings due to asthma",
+      "Need for reliever medication",
+      "Lung function (FEV1)",
+      "Exacerbations"
+        ],
+        "answer": "Lung function (FEV1)",
+        "topic": "Respiratory"
+  },
+  {
+      "question": "Which of the following is a recommended step-up approach in asthma management if symptoms are not controlled with a low-dose inhaled corticosteroid (ICS) alone?",
+      "choices":[
+       "Add a long-acting beta-agonist (LABA)",
+       "Increase the dose of ICS",
+       "Add a leukotriene modifier",
+        "Add oral corticosteroids",
+       "Any of the above, depending on the patient's characteristics and preference"
+      ],
+      "answer": "Any of the above, depending on the patient's characteristics and preference",
+      "topic": "Respiratory"
+  },
+  {
+   "question": "Which of the following statements regarding the management of acute kidney injury (AKI) is TRUE?",
+    "choices":[
+       "Loop diuretics are effective in improving renal outcomes in all patients with AKI.",
+      "Fluid resuscitation should be avoided in patients with AKI.",
+       "Renal replacement therapy (RRT) should be initiated in all patients with AKI.",
+      "Dopamine is recommended for the prevention or treatment of AKI.",
+        "Early identification and treatment of the underlying cause is crucial."
+    ],
+     "answer": "Early identification and treatment of the underlying cause is crucial.",
+     "topic": "Nephrology"
+    },
+  {
+     "question": "What is the primary goal of therapy in patients with nephrotic syndrome?",
+      "choices":[
+        "Reduce proteinuria",
+         "Control hypertension",
+         "Manage edema",
+       "Prevent thromboembolic complications",
+        "Treat underlying cause"
+      ],
+     "answer": "Reduce proteinuria",
+     "topic": "Nephrology"
+    },
+      {
+        "question": "Which of the following is a key feature that distinguishes prerenal azotemia from acute tubular necrosis (ATN)?",
+        "choices":[
+       "Elevated blood urea nitrogen (BUN) to creatinine ratio",
+        "Presence of muddy brown granular casts in urine sediment",
+         "Fractional excretion of sodium (FENa) >2%",
+        "Response to fluid resuscitation",
+         "Urine osmolality <350 mOsm/kg"
+        ],
+        "answer": "Elevated blood urea nitrogen (BUN) to creatinine ratio",
+        "topic": "Nephrology"
+      },
+       {
+      "question": "Which of the following is NOT a typical feature of nephritic syndrome?",
+     "choices":[
+        "Hematuria",
+      "Proteinuria",
+     "Hypertension",
+     "Edema",
+        "Hypoalbuminemia"
+      ],
+     "answer": "Hypoalbuminemia",
+     "topic": "Nephrology"
+    },
+     {
+     "question": "Which of the following is the MOST LIKELY cause of nephrotic syndrome in adults?",
+      "choices":[
+      "Minimal change disease",
+         "Focal segmental glomerulosclerosis (FSGS)",
+        "Membranous nephropathy",
+       "Membranoproliferative glomerulonephritis (MPGN)",
+       "Diabetic nephropathy"
+     ],
+     "answer": "Membranous nephropathy",
+     "topic": "Nephrology"
+    },
+    {
+      "question": "The presence of RBC casts in the urine sediment is strongly suggestive of:",
+      "choices":[
+        "Urinary tract infection",
+       "Glomerulonephritis",
+         "Acute tubular necrosis",
+        "Pre-renal azotemia",
+       "Nephrolithiasis"
+      ],
+      "answer": "Glomerulonephritis",
+      "topic": "Nephrology"
+    },
+  
+    {
+       "question": "The presence of WBC casts in the urine sediment is strongly suggestive of?",
+       "choices":[
+        "Urinary tract infection",
+        "Interstitial nephritis",
+        "Glomerulonephritis",
+        "Pre-renal azotemia",
+       "Nephrolithiasis"
+       ],
+      "answer": "Interstitial nephritis",
+      "topic": "Nephrology"
+     },
+      {
+      "question": "Which of the following electrolyte abnormalities is commonly associated with advanced chronic kidney disease (CKD)?",
+     "choices":[
+        "Hyperkalemia",
+       "Hypocalcemia",
+        "Hyperphosphatemia",
+        "All of the above",
+       "None of the above"
+      ],
+      "answer": "All of the above",
+      "topic": "Nephrology"
+    },
+  
+     {
+        "question": "Which of the following is the preferred initial imaging modality for evaluating the kidneys in a patient with suspected acute kidney injury (AKI)?",
+        "choices":[
+       "Plain abdominal X-ray",
+       "Ultrasound",
+        "Computed tomography (CT) scan",
+       "Magnetic resonance imaging (MRI)",
+      "Intravenous pyelogram (IVP)"
+      ],
+     "answer": "Ultrasound",
+     "topic": "Nephrology"
+    },
+      {
+        "question": "Which of the following statements about renal biopsy is TRUE?",
+         "choices":[
+         "It is indicated in all patients with suspected glomerular disease.",
+          "It is a risk-free procedure.",
+         "It can help differentiate between various types of glomerular diseases.",
+          "It is always necessary to determine the cause of AKI.",
+        "It is contraindicated in patients with a solitary kidney."
+         ],
+         "answer": "It can help differentiate between various types of glomerular diseases.",
+        "topic": "Nephrology"
+      }
+  ]

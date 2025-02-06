@@ -2,7 +2,7 @@ import json
 from collections import Counter
 
 # Load the JSON data from the file
-with open('new.json', 'r') as file:
+with open('sample.json', 'r') as file:
     data = json.load(file)
 
 # Extract topics from the data
