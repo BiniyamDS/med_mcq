@@ -78,12 +78,25 @@ function loadQuestion() {
 function checkAnswer() {
     const selected = document.querySelector('input[name="choice"]:checked');
     const resultElement = document.getElementById("result");
+    const choices = document.querySelectorAll('#choices label');
     
     if (!selected) return;
 
     const isCorrect = selected.value === questions[currentQuestionIndex].answer;
-    resultElement.textContent = isCorrect ? "Correct!" : `Wrong! Correct answer: ${questions[currentQuestionIndex].answer}`;
-    resultElement.className = isCorrect ? "correct" : "wrong";
+    choices.forEach(choice => {
+        const input = choice.querySelector('input');
+        if (input.value === questions[currentQuestionIndex].answer) {
+            choice.classList.add('correct');
+        } else if (input.checked) {
+            choice.classList.add('wrong');
+        } else {
+            choice.classList.add('inactive');
+        }
+        input.disabled = true;
+    });
+
+    // resultElement.textContent = isCorrect ? "Correct!" : `Wrong! Correct answer: ${questions[currentQuestionIndex].answer}`;
+    // resultElement.className = isCorrect ? "correct" : "wrong";
 }
 
 function previousQuestion() {

@@ -105,6 +105,25 @@ body {
     background-color: #f9f9f9;
 }
 
+.choices label.correct {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+}
+
+.choices label.wrong {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+
+.choices label.inactive {
+    background-color: #e9ecef;
+    border-color: #dee2e6;
+    color: #6c757d;
+    cursor: not-allowed;
+}
+
 .check-btn {
     width: 100%;
     padding: 15px;
