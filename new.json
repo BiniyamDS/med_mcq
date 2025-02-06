@@ -583,5 +583,742 @@
           ],
           "answer":"It is associated with red cell production indices 2.5 times normal.",
           "topic":"Approach to Anemia"
-     }
-  ]
+     },
+  {
+    "question": "Which of the following conditions is MOST likely to present with a GIANT cell on histologic examination?",
+    "choices": [
+      "Aspergillosis",
+      "Candidiasis",
+      "Cryptococcosis",
+      "Sporotrichosis"
+    ],
+    "answer": "Cryptococcosis",
+    "topic": "Fungal Infections"
+  },
+    {
+    "question": "A patient presents with suspected invasive fungal infection. Which diagnostic method is considered the GOLD STANDARD?",
+    "choices": [
+      "Serologic testing for antibodies",
+      "Culture of the organism",
+      "Histopathologic identification with evidence of inflammation",
+      "PCR testing"
+    ],
+    "answer": "Histopathologic identification with evidence of inflammation",
+    "topic": "Fungal Infections"
+  },
+   {
+    "question": "Which of the following antifungal agents is known for its broad spectrum of activity and is often used for severe systemic fungal infections?",
+    "choices": [
+      "Griseofulvin",
+      "Terbinafine",
+      "Amphotericin B",
+      "Flucytosine"
+    ],
+    "answer": "Amphotericin B",
+    "topic": "Fungal Infections"
+  },
+    {
+    "question": "Which class of antifungal drugs includes fluconazole and itraconazole?",
+    "choices": [
+      "Polyenes",
+      "Azoles",
+      "Echinocandins",
+      "Allylamines"
+    ],
+    "answer": "Azoles",
+    "topic": "Fungal Infections"
+  },
+   {
+    "question": "Endemic mycoses are typically acquired from:",
+    "choices":[
+    "Person-to-person contact",
+    "Environmental sources",
+      "Normal human microbiota",
+      "Contaminated medical equipment"
+    ],
+    "answer":"Environmental sources",
+    "topic":"Fungal Infections"
+  },
+   {
+    "question": "Which statement about opportunistic fungal infections is TRUE?",
+    "choices": [
+      "They are caused by organisms that are part of the normal human microbiota.",
+      "They typically affect immunocompetent individuals.",
+      "They are acquired from environmental sources.",
+      "They cause serious infections when the immunologic response of the host becomes ineffective."
+    ],
+    "answer": "They cause serious infections when the immunologic response of the host becomes ineffective.",
+    "topic": "Fungal Infections"
+  },
+    {
+      "question": "The India ink preparation of cerebrospinal fluid (CSF) is MOST useful for diagnosing which fungal infection?",
+      "choices":[
+        "Aspergillosis",
+        "Candidiasis",
+        "Cryptococcosis",
+        "Histoplasmosis"
+      ],
+      "answer":"Cryptococcosis",
+    "topic":"Fungal Infections"
+    },
+   {
+    "question": "Which laboratory test is MOST reliable for detecting Coccidioides immitis infection?",
+    "choices": [
+      "β-glucan test",
+      "Galactomannan test",
+      "Antibody detection in serum and CSF",
+      "Culture of blood"
+    ],
+    "answer": "Antibody detection in serum and CSF",
+    "topic": "Fungal Infections"
+  },
+    {
+    "question": "Which class of antifungal drugs acts by inhibiting the synthesis of β-(1,3)-glucan in the fungal cell wall?",
+    "choices": [
+      "Azoles",
+      "Echinocandins",
+      "Polyenes",
+      "Allylamines"
+    ],
+    "answer": "Echinocandins",
+    "topic": "Fungal Infections"
+  },
+   {
+    "question": "Which term is used to describe fungi that grow as yeasts in tissue but as filamentous forms at room temperature?",
+    "choices": [
+      "Mold",
+      "Yeast",
+      "Dimorphic fungus",
+      "Hyphae"
+    ],
+    "answer": "Dimorphic fungus",
+    "topic": "Fungal Infections"
+  },
+   {
+    "question": "A 30-year-old male with a history of IV drug use presents with fever, cough, and chest pain. Blood cultures grow gram-positive cocci in clusters. Which organism is MOST likely responsible?",
+    "choices": [
+      "Streptococcus pneumoniae",
+      "Staphylococcus aureus",
+      "Coagulase-negative staphylococci",
+      "Enterococcus faecalis"
+    ],
+    "answer": "Staphylococcus aureus",
+    "topic": "Bacterial Infections"
+  },
+   {
+    "question": "Which of the following is NOT a typical portal of entry for Bacillus anthracis in humans?",
+    "choices": [
+      "Gastrointestinal tract",
+      "Skin",
+      "Respiratory tract",
+      "Urinary tract"
+    ],
+    "answer": "Urinary tract",
+    "topic": "Bacterial Infections"
+  },
+  {
+    "question": "What is the most common manifestation of Tetanus?",
+    "choices":[
+    "Generalized tetanus",
+    "Local tetanus",
+    "Cephalic tetanus",
+    "Neonatal tetanus"
+    ],
+    "answer":"Generalized tetanus",
+    "topic":"Bacterial Infections"
+  },
+   {
+    "question": "Which of the following is the MOST common initial symptom in the majority of patients with generalized tetanus?",
+    "choices":[
+    "Opisthotonos",
+    "Trismus (lockjaw)",
+    "Stiff neck",
+    "Risus sardonicus"
+    ],
+    "answer":"Trismus (lockjaw)",
+    "topic":"Bacterial Infections"
+  },
+    {
+    "question": "What is the primary mechanism by which Clostridium tetani causes disease?",
+    "choices": [
+      "Direct invasion of tissues",
+      "Production of tetanospasmin (tetanus toxin)",
+      "Disruption of normal intestinal flora",
+      "Spore formation in healthy tissues"
+    ],
+    "answer": "Production of tetanospasmin (tetanus toxin)",
+    "topic": "Bacterial Infections"
+  },
+   {
+    "question": "Which of the following is the MOST common cause of antibiotic-associated colitis?",
+    "choices": [
+      "Staphylococcus aureus",
+      "Clostridium tetani",
+      "Clostridioides difficile",
+      "Bacillus anthracis"
+    ],
+    "answer": "Clostridioides difficile",
+    "topic": "Bacterial Infections"
+  },
+   {
+    "question": "Which antibiotic is MOST strongly associated with Clostridioides difficile infection?",
+    "choices": [
+      "Penicillin",
+      "Tetracycline",
+      "Clindamycin",
+      "Erythromycin"
+    ],
+    "answer": "Clindamycin",
+    "topic": "Bacterial Infections"
+  },
+   {
+    "question": "Which of the following laboratory tests is MOST useful in confirming a diagnosis of Clostridioides difficile infection?",
+    "choices": [
+      "Stool culture",
+      "Blood culture",
+      "Lower GI endoscopy",
+      "Stool toxin assay"
+    ],
+    "answer": "Stool toxin assay",
+    "topic": "Bacterial Infections"
+  },
+   {
+    "question": "Which of the following patients with chronic pancreatitis is MOST likely to benefit from total pancreatectomy with autologous islet cell transplantation?",
+    "choices":[
+    "A patient with a long history of alcohol abuse",
+     "A patient with severe, intractable abdominal pain and no prior pancreatic surgery",
+     "A patient with extensive pancreatic calcifications",
+     "A patient with multiple pseudocysts"
+    ],
+      "answer":"A patient with severe, intractable abdominal pain and no prior pancreatic surgery",
+      "topic":"Pancreatitis"
+    },
+  {
+      "question":"Which of the following is NOT a typical feature of chronic pancreatitis",
+      "choices":[
+        "Steatorrhea",
+        "Diabetes mellitus",
+        "Abdominal pain",
+        "Weight gain"
+      ],
+      "answer":"Weight gain",
+    "topic":"Pancreatitis"
+    },
+   {
+    "question": "Which of the following imaging modalities is MOST useful for evaluating the extent of pancreatic necrosis in acute pancreatitis?",
+    "choices": [
+      "Plain abdominal X-ray",
+      "Ultrasound",
+      "CT scan with contrast",
+      "MRI"
+    ],
+    "answer": "CT scan with contrast",
+    "topic": "Pancreatitis"
+  },
+    {
+    "question": "What is the primary goal of treatment in acute pancreatitis?",
+    "choices": [
+      "Surgical removal of the pancreas",
+      "Antibiotic therapy to prevent infection",
+      "Fluid resuscitation and pain control",
+      "Endoscopic retrograde cholangiopancreatography (ERCP)"
+    ],
+    "answer": "Fluid resuscitation and pain control",
+    "topic": "Pancreatitis"
+  },
+  {
+    "question": "Which of the following is NOT a typical component of Ranson's criteria for assessing the severity of acute pancreatitis?",
+    "choices": [
+      "Age >55 years",
+      "WBC count >16,000/mm3",
+      "Blood glucose >200 mg/dL",
+      "Serum amylase >200 U/L"
+    ],
+    "answer": "Serum amylase >200 U/L",
+    "topic": "Pancreatitis"
+  },
+   {
+    "question": "What is the MOST common cause of acute pancreatitis?",
+    "choices": [
+      "Alcohol abuse",
+      "Gallstones",
+      "Hypertriglyceridemia",
+      "Medications"
+    ],
+    "answer": "Gallstones",
+    "topic": "Pancreatitis"
+  },
+   {
+    "question": "Which of the following is a characteristic feature of chronic pancreatitis?",
+    "choices": [
+      "Reversible pancreatic damage",
+      "Intermittent episodes of severe pain",
+      "Elevated serum amylase and lipase",
+      "Pancreatic calcifications"
+    ],
+    "answer": "Pancreatic calcifications",
+    "topic": "Pancreatitis"
+  },
+    {
+      "question": "A patient with acute pancreatitis develops hypotension, tachycardia, and decreased urine output. What is the MOST likely complication?",
+      "choices":[
+        "Pancreatic pseudocyst",
+        "Pancreatic abscess",
+        "Sepsis and shock",
+        "Pleural effusion"
+        ],
+      "answer":"Sepsis and shock",
+        "topic":"Pancreatitis"
+    },
+     {
+      "question": "Which of the following is the MOST appropriate initial management for a patient with acute pancreatitis?",
+      "choices":[
+      "NPO (nothing by mouth) and IV fluids",
+      "Immediate surgical intervention",
+      "Oral antibiotics",
+      "Nasogastric suction"
+      ],
+      "answer":"NPO (nothing by mouth) and IV fluids",
+       "topic":"Pancreatitis"
+    },
+     {
+      "question": "What is the Modified Atlanta Classification used for in acute pancreatitis?",
+      "choices":[
+        "Diagnosing the underlying cause",
+      "Classifying the severity and type of pancreatitis",
+      "Determining the need for surgical intervention",
+      "Predicting the risk of recurrence"
+      ],
+      "answer":"Classifying the severity and type of pancreatitis",
+       "topic":"Pancreatitis"
+    },
+    {
+        "question":"Which of the following is the correct sequence of the erythron development?",
+        "choices":[
+            "Stem cell, precursor cell, progenitor cell, mature cell",
+            "Stem cell, progenitor cell, precursor cell, mature cell",
+            "Precursor cell, stem cell, progenitor cell, mature cell",
+            "Progenitor cell, stem cell, precursor cell, mature cell"
+        ],
+        "answer":"Stem cell, progenitor cell, precursor cell, mature cell",
+        "topic":"Approach to anemia"
+    },
+   {
+    "question": "Which of the following laboratory findings is MOST consistent with iron deficiency anemia?",
+    "choices": [
+      "Increased serum iron, decreased TIBC, increased ferritin",
+      "Decreased serum iron, increased TIBC, decreased ferritin",
+      "Increased serum iron, increased TIBC, decreased ferritin",
+      "Decreased serum iron, decreased TIBC, increased ferritin"
+    ],
+    "answer": "Decreased serum iron, increased TIBC, decreased ferritin",
+    "topic": "Approach to Anemia"
+  },
+  {
+    "question": "A patient presents with fatigue, pallor, and a hemoglobin level of 7 g/dL. The reticulocyte count is 1%. What is the MOST likely classification of this anemia?",
+    "choices": [
+      "Hypoproliferative anemia",
+      "Maturation disorder",
+      "Hemolytic anemia",
+      "Anemia of acute blood loss"
+    ],
+    "answer": "Hypoproliferative anemia",
+    "topic": "Approach to Anemia"
+  },
+    {
+    "question": "Which of the following is NOT a typical feature of megaloblastic anemia?",
+    "choices": [
+      "Vitamin B12 or folic acid deficiency",
+      "Hypersegmented neutrophils",
+      "Oval macrocytosis",
+      "Increased reticulocyte index"
+    ],
+    "answer": "Increased reticulocyte index",
+    "topic": "Approach to Anemia"
+  },
+    {
+        "question":"What is the most common cause of infective endocarditis in IV drug users?",
+        "choices":[
+            "Coagulase negative staphylococcus",
+            "S.Aureus",
+            "GAS",
+            "Viridians strep"
+        ],
+        "answer":"S.Aureus",
+        "topic":"Cardiovascular system"
+    },
+     {
+        "question":"All the followings are immune mediated complications of GAS infections, EXCEPT",
+        "choices":[
+            "Post-streptococcal glomerulonephritis",
+            "Reiter's Syndrome",
+            "Acute rheumatic fever",
+            "Erythema nodosum"
+        ],
+         "answer":"Erythema nodosum",
+        "topic":"Cardiovascular system"
+    },
+     {
+    "question": "Which of the following is the most appropriate initial diagnostic test for a patient presenting with signs and symptoms suggestive of acute coronary syndrome (ACS)?",
+    "choices": [
+      "Cardiac enzymes",
+      "Echocardiogram",
+      "Electrocardiogram (ECG)",
+      "Chest X-ray"
+    ],
+    "answer": "Electrocardiogram (ECG)",
+    "topic": "Cardiovascular System"
+  },
+     {
+        "question":"what are the most common presenting signs and symptoms of DVT",
+        "choices":[
+            "chest pain and hemoptysis ",
+            "swelling and pain of the lower extrimity",
+            "sudden onset of dyspnea",
+            "pleuritic chest pain"
+        ],
+        "answer":"swelling and pain of the lower extrimity",
+        "topic":"Cardiovascular system"
+    },
+   {
+    "question": "A patient with a history of rheumatic heart disease presents with a new murmur. Which valve is MOST likely to be affected?",
+    "choices": [
+      "Aortic valve",
+      "Mitral valve",
+      "Pulmonic valve",
+      "Tricuspid valve"
+    ],
+    "answer": "Mitral valve",
+    "topic": "Cardiovascular System"
+  },
+ {
+    "question": "Which of the following is the MOST common presenting symptom of aortic stenosis?",
+    "choices": [
+      "Syncope",
+      "Chest pain",
+      "Dyspnea",
+      "Palpitations"
+    ],
+    "answer": "Chest pain",
+    "topic": "Cardiovascular System"
+  },
+     {
+    "question": "Which of the following maneuvers DECREASES the intensity of the murmur of hypertrophic obstructive cardiomyopathy (HOCM)?",
+    "choices": [
+      "Valsalva maneuver",
+      "Standing",
+      "Squatting",
+      "Amyl nitrate inhalation"
+    ],
+    "answer": "Squatting",
+    "topic": "Cardiovascular System"
+  },
+   {
+    "question": "What is the primary goal of treatment in acute decompensated heart failure?",
+    "choices": [
+      "Increase cardiac output",
+      "Reduce preload and afterload",
+      "Control heart rate",
+      "Prevent arrhythmias"
+    ],
+    "answer": "Reduce preload and afterload",
+    "topic": "Cardiovascular System"
+  },
+   {
+    "question": "Which of the following medications is CONTRAINDICATED in patients with acute decompensated heart failure and hypotension?",
+    "choices": [
+      "Furosemide",
+      "Nitroglycerin",
+      "Dobutamine",
+      "Milrinone"
+    ],
+    "answer": "Nitroglycerin",
+    "topic": "Cardiovascular System"
+  },
+     {
+        "question":"In a patient presenting with acute pulmonary edema secondary to heart failure, all the followings can be part of the initial managements,EXCEPT",
+        "choices":[
+            "Morphine",
+            "Nitroglycerine",
+            "Furosemide",
+            "Nor-epinephrine"
+        ],
+        "answer":"Nor-epinephrine",
+        "topic":"Cardiovascular system"
+     },
+  {
+    "question": "Which of the following is the MOST common cause of secondary hypertension?",
+    "choices": [
+      "Primary aldosteronism",
+      "Renovascular disease",
+      "Obstructive sleep apnea",
+      "Pheochromocytoma"
+    ],
+    "answer": "Renovascular disease",
+    "topic": "Cardiovascular System"
+  },
+   {
+    "question": "What is the recommended blood pressure goal for most patients with hypertension according to current guidelines?",
+    "choices": [
+      "<140/90 mmHg",
+      "<130/80 mmHg",
+      "<120/80 mmHg",
+      "<110/70 mmHg"
+    ],
+    "answer": "<130/80 mmHg",
+    "topic": "Cardiovascular System"
+  },
+   {
+      "question":"All the followings can be used as initial treatment for the management of high blood pressure, EXCEPT",
+      "choices":[
+          "Thiazide diuretic",
+          "Beta blockers",
+          "ACEI",
+          "ARBs"
+      ],
+      "answer":"Beta blockers",
+      "topic":"Cardiovascular System"
+    },
+    {
+    "question": "Which of the following is the MOST common cause of infective endocarditis in intravenous drug users?",
+    "choices": [
+      "Streptococcus viridans",
+      "Staphylococcus aureus",
+      "Enterococcus faecalis",
+      "Haemophilus influenzae"
+    ],
+    "answer": "Staphylococcus aureus",
+    "topic": "Cardiovascular System"
+  },
+   {
+    "question": "What are the classic components of the Duke criteria for diagnosing infective endocarditis?",
+    "choices": [
+      "Fever, new murmur, positive blood cultures",
+      "Fever, anemia, new murmur",
+      "Osler's nodes, Janeway lesions, Roth's spots",
+      "Splinter hemorrhages, petechiae, clubbing"
+    ],
+    "answer": "Fever, new murmur, positive blood cultures",
+    "topic": "Cardiovascular System"
+  },
+   {
+      "question":"Which of the following best describes the concept of metabolic syndrome",
+      "choices":[
+        "A cluster of interrelated risk factors that increase the risk of cardiovascular disease and diabetes",
+        "A specific type of diabetes mellitus with unique complications",
+        "A rare genetic disorder affecting lipid metabolism",
+        "A form of hypertension caused by excessive salt intake"
+        ],
+      "answer":"A cluster of interrelated risk factors that increase the risk of cardiovascular disease and diabetes",
+      "topic":"Endocrine System"
+    },
+      {
+      "question":"What is the primary pathophysiologic mechanism underlying type 1 diabetes mellitus?",
+      "choices":[
+      "Increased insulin resistance in peripheral tissues",
+      "Autoimmune destruction of pancreatic beta cells",
+      "Excessive glucagon secretion",
+       "Impaired glucose uptake by the liver"
+      ],
+        "answer":"Autoimmune destruction of pancreatic beta cells",
+        "topic":"Endocrine System"
+      },
+       {
+      "question":"Which of the following is NOT a typical feature of diabetic ketoacidosis (DKA)?",
+      "choices":[
+       "Hyperglycemia",
+       "Metabolic alkalosis",
+       "Ketonemia",
+       "Dehydration"
+      ],
+      "answer":"Metabolic alkalosis",
+       "topic":"Endocrine System"
+    },
+    {
+        "question":"What is the recommended first-line treatment for type 2 diabetes mellitus?",
+        "choices":[
+          "Insulin injections",
+          "Metformin",
+          "Sulfonylureas",
+          "Thiazolidinediones"
+        ],
+        "answer":"Metformin",
+        "topic":"Endocrine System"
+    },
+      {
+        "question":"Which of the following is a long-term microvascular complication of diabetes mellitus?",
+        "choices":[
+          "Coronary artery disease",
+          "Stroke",
+          "Peripheral neuropathy",
+          "Peripheral vascular disease"
+        ],
+        "answer":"Peripheral neuropathy",
+        "topic":"Endocrine System"
+    },
+     {
+    "question": "What is the most common cause of hyperthyroidism?",
+    "choices": [
+      "Graves' disease",
+      "Toxic multinodular goiter",
+      "Thyroiditis",
+      "Iodine deficiency"
+    ],
+    "answer": "Graves' disease",
+    "topic": "Endocrine System"
+  },
+    {
+      "question":"All of the following are the common clinical features of thyrotoxicosis, EXCEPT",
+      "choices":[
+        "Weight gain",
+        "Tachycardia",
+        "Heat intolerance",
+        "Tremor"
+],
+    "answer":"Weight gain",
+    "topic":"Endocrine System"
+  },
+    {
+      "question":"What is the most appropriate initial treatment for a patient with symptomatic hyperthyroidism",
+      "choices":[
+        "Radioactive iodine therapy",
+        "Thyroidectomy",
+        "Beta-blockers",
+        "Propylthiouracil (PTU)"
+      ],
+      "answer":"Beta-blockers",
+    "topic":"Endocrine System"
+    },
+     {
+      "question":"Which of the following is a characteristic feature of Hashimoto's thyroiditis?",
+      "choices":[
+          "Increased radioactive iodine uptake",
+        "Presence of thyroid-stimulating antibodies",
+        "Presence of antithyroid peroxidase (anti-TPO) antibodies",
+        "Painful thyroid gland"
+      ],
+      "answer":"Presence of antithyroid peroxidase (anti-TPO) antibodies",
+    "topic":"Endocrine System"
+    },
+      {
+        "question":"What is the most common cause of Cushing's syndrome?",
+        "choices":[
+          "Adrenal adenoma",
+          "Pituitary adenoma",
+          "Ectopic ACTH production",
+          "Exogenous glucocorticoid use"
+        ],
+        "answer":"Exogenous glucocorticoid use",
+        "topic":"Endocrine System"
+      },
+   {
+    "question":"Which of the following diagnostic tests is MOST useful for confirming primary hyperaldosteronism?",
+    "choices":[
+      "Serum potassium level",
+       "Plasma renin activity",
+       "Plasma aldosterone concentration (PAC) to plasma renin activity (PRA) ratio",
+      "24-hour urinary cortisol excretion"
+      ],
+      "answer":"Plasma aldosterone concentration (PAC) to plasma renin activity (PRA) ratio",
+      "topic":"Nephrology"
+    },
+      {
+     "question":"What is the initial diagnostic approach for a patient with suspected acute kidney injury (AKI)?",
+    "choices":[
+      "Renal biopsy",
+      "Urine microscopy",
+      "Renal ultrasound",
+      "Measurement of serum creatinine and assessment of urine output"
+    ],
+      "answer":"Measurement of serum creatinine and assessment of urine output",
+      "topic":"Nephrology"
+    },
+   {
+    "question": "Which of the following is a common cause of pre-renal acute kidney injury?",
+    "choices":[
+        "Glomerulonephritis",
+        "Acute tubular necrosis",
+        "Hypovolemia",
+        "Urinary tract obstruction"
+      ],
+     "answer":"Hypovolemia",
+     "topic":"Nephrology"
+    },
+  {
+    "question": "Which electrolyte abnormality is MOST commonly associated with chronic kidney disease (CKD)?",
+    "choices":[
+        "Hyperkalemia",
+       "Hyponatremia",
+       "Hypocalcemia",
+        "Hyperphosphatemia"
+      ],
+      "answer":"Hyperkalemia",
+    "topic":"Nephrology"
+    },
+     {
+         "question":"In which of the following patients with chronic kidney disease is dialysis indicated?",
+         "choices":[
+           "A patient with a GFR of 65 mL/min/1.73 m² and no symptoms",
+           "A patient with a GFR of 45 mL/min/1.73 m² and mild fatigue",
+           "A patient with a GFR of 10 mL/min/1.73 m² and uremic pericarditis",
+           "A patient with a GFR of 30 mL/min/1.73 m² and well-controlled hypertension"
+         ],
+         "answer":"A patient with a GFR of 10 mL/min/1.73 m² and uremic pericarditis",
+     "topic":"Nephrology"
+      },
+    {
+        "question":"All of the following are examples of nephritic syndrome, EXCEPT",
+        "choices":[
+          "Rapidly progressive glomerulonephritis",
+          "IgA nephropathy",
+          "Alport syndrome",
+          "Post-infectious glomerulonephritis"
+        ],
+        "answer":"Alport syndrome",
+         "topic":"Nephrology"
+    },
+     {
+        "question":"Which of the following is a characteristic finding in nephrotic syndrome?",
+        "choices":[
+          "Hematuria",
+          "Hypertension",
+          "Proteinuria >3.5 g/day",
+          "Red blood cell casts"
+],
+        "answer":"Proteinuria >3.5 g/day",
+    "topic":"Nephrology"
+      },
+     {
+        "question":"What is the most common cause of end-stage renal disease (ESRD) in developed countries?",
+        "choices":[
+          "Glomerulonephritis",
+          "Polycystic kidney disease",
+          "Diabetes mellitus",
+          "Hypertension"
+        ],
+        "answer":"Diabetes mellitus",
+      "topic":"Nephrology"
+    },
+      {
+        "question":"What is the most common type of renal stone?",
+        "choices":[
+            "Calcium oxalate",
+            "Uric acid",
+            "Struvite",
+            "Cystine"
+        ],
+        "answer":"Calcium oxalate",
+    "topic":"Nephrology"
+    },
+      {
+        "question":"A patient with nephrolithiasis presents with severe flank pain radiating to the groin. What is the most appropriate initial imaging study?",
+        "choices":[
+         "Abdominal X-ray",
+         "Ultrasound of the kidneys",
+         "Non-contrast CT scan of the abdomen and pelvis",
+         "Intravenous pyelogram (IVP)"
+        ],
+        "answer":"Non-contrast CT scan of the abdomen and pelvis",
+        "topic":"Nephrology"
+      }
+]
