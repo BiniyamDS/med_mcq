@@ -1,0 +1,587 @@
+
+[
+    {
+      "question": "Which of the following is NOT a typical characteristic of Bacillus anthracis?",
+      "choices": [
+        "Gram-positive rod",
+        "Spore-forming",
+        "Susceptible to cephalosporins",
+        "Causes a predominantly animal disease"
+      ],
+      "answer": "Susceptible to cephalosporins",
+      "topic": "Infectious Diseases"
+    },
+      {
+      "question": "Which of the following is the most common type of anthrax infection in humans?",
+      "choices": [
+        "Gastrointestinal",
+        "Cutaneous",
+        "Inhalational",
+        "Meningeal"
+      ],
+      "answer": "Cutaneous",
+      "topic": "Infectious Diseases"
+    },
+     {
+      "question": "What is the primary mechanism of pathogenesis in tetanus?",
+      "choices": [
+        "Direct bacterial invasion of tissues",
+        "Inhibition of inhibitory neurotransmission",
+        "Activation of stimulatory neurotransmission",
+        "Spore formation in healthy tissues"
+      ],
+      "answer": "Inhibition of inhibitory neurotransmission",
+      "topic": "Infectious Diseases"
+    },
+     {
+      "question": "Which cranial nerve is most commonly affected in cephalic tetanus?",
+      "choices": [
+        "CN III",
+        "CN IV",
+        "CN VII",
+        "CN XII"
+      ],
+      "answer": "CN VII",
+      "topic": "Infectious Diseases"
+    },
+     {
+        "question":"Which clostridial species is correctly matched with disease it commonly causes",
+        "choices":[
+          "Clostridum difficile - tetanus",
+          "Clostridum tetani - botulism ",
+          "Clostridum perferingens - gas gangrene ",
+          "Clostridum botulinum - antibiotic associated colitis "
+  ],
+      "answer":"Clostridum perferingens - gas gangrene",
+      "topic":"Infectious Diseases"
+    },
+   {
+      "question": "Which of the following antibiotics is LEAST likely to be associated with Clostridium difficile infection?",
+      "choices": [
+        "Clindamycin",
+        "Penicillins",
+        "Cephalosporins",
+        "Vancomycin"
+      ],
+      "answer": "Vancomycin",
+      "topic": "Infectious Diseases"
+    },
+     {
+      "question": "What is the most reliable diagnostic test for C. difficile infection?",
+      "choices": [
+        "Stool culture",
+        "Stool test for C. difficile toxin and toxin B gene",
+        "Lower GI endoscopy",
+        "PCR"
+      ],
+      "answer": "Stool test for C. difficile toxin and toxin B gene",
+      "topic": "Infectious Diseases"
+    },
+     {
+      "question": "Which of the following is a virulence factor of Bacillus anthracis?",
+      "choices": [
+        "Tetanospasmin",
+        "Protective antigen",
+        "Botulinum toxin",
+        "Enterotoxin A"
+      ],
+      "answer": "Protective antigen",
+      "topic": "Infectious Diseases"
+    },
+    {
+      "question": "Which of the following is NOT a typical manifestation of cutaneous anthrax?",
+      "choices": [
+        "Painless papule",
+        "Black eschar",
+        "Extensive edema",
+        "Painful, purulent ulcer"
+      ],
+      "answer": "Painful, purulent ulcer",
+      "topic": "Infectious Diseases"
+    },
+      {
+      "question": "What is the recommended treatment for systemic anthrax?",
+      "choices": [
+        "Antibiotic monotherapy",
+        "Antimicrobial combination therapy",
+        "Cephalosporins alone",
+        "Supportive care only"
+      ],
+      "answer": "Antimicrobial combination therapy",
+      "topic": "Infectious Diseases"
+    },
+   {
+        "question": "What is the most frequent means of transmission of C. tetani in neonatal tetanus?",
+        "choices":[
+          "Ingestion of contaminated food",
+          "Unclean management of the umbilical stump",
+          "Penetrating injuries",
+          "Inhalation of spores"
+          ],
+          "answer":"Unclean management of the umbilical stump",
+        "topic":"Infectious Diseases"
+      },
+        {
+        "question": "Which of the following clinical situations is NOT typically associated with an increased risk of tetanus?",
+        "choices":[
+          "Septic abortion",
+          "Dental infections",
+          "Infected umbilical stump in neonates",
+          "Unimmunized mothers"
+        ],
+          "answer":"Dental infections",
+      "topic":"Infectious Diseases"
+      },
+    {
+      "question": "Which of the following is the MOST appropriate initial treatment for a patient with severe tetanus?",
+      "choices": [
+        "Metronidazole or penicillin G",
+        "Human tetanus immunoglobulin (HTIG)",
+        "Benzodiazepines",
+        "Airway management"
+      ],
+      "answer": "Airway management",
+      "topic": "Infectious Diseases"
+    },
+      {
+      "question": "Which of the following is a key component of tetanus treatment to halt toxin production?",
+      "choices": [
+        "Antitoxin administration",
+        "Wound management",
+        "Active immunization",
+        "Beta-blocker administration"
+      ],
+      "answer": "Wound management",
+      "topic": "Infectious Diseases"
+    },
+     {
+      "question": "Which finding is MOST consistent with a diagnosis of severe tetanus?",
+      "choices": [
+        "Incubation period > 14 days",
+        "Mild trismus",
+        "Onset time < 3 days",
+        "Localized spasm and rigidity"
+      ],
+      "answer": "Onset time < 3 days",
+      "topic": "Infectious Diseases"
+    },
+     {
+      "question": "Which form of tetanus is characterized by symptoms limited to one part of the body and is often less severe?",
+      "choices": [
+        "Generalized tetanus",
+        "Local tetanus",
+        "Cephalic tetanus",
+        "Neonatal tetanus"
+      ],
+      "answer": "Local tetanus",
+      "topic": "Infectious Diseases"
+    },
+     {
+      "question": "What is the primary aim of treatment in tetanus?",
+      "choices": [
+        "Neutralizing unbound toxin",
+        "Antagonizing the effects of bound toxin",
+        "Halting toxin production",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "topic": "Infectious Diseases"
+    },
+   {
+        "question": "What is the primary mechanism by which Clostridium difficile causes diarrhea?",
+        "choices":[
+          "Direct invasion of the intestinal wall",
+          "Disruption of normal intestinal flora",
+          "Production of exotoxins",
+          "Formation of spores"
+            ],
+          "answer":"Production of exotoxins",
+          "topic":"Infectious Diseases"
+      },
+    {
+      "question": "What is the most common clinical feature of Clostridioides difficile infection (CDI)?",
+      "choices": [
+        "Asymptomatic infection",
+        "Watery diarrhea",
+        "Bloody diarrhea",
+        "Protein-losing enteropathy"
+      ],
+      "answer": "Watery diarrhea",
+      "topic": "Respiratory System"
+    },
+     {
+      "question": "Which imaging finding is MOST characteristic of inhalational anthrax?",
+      "choices": [
+        "Lung infiltrates",
+        "Mediastinal widening",
+        "Consolidation",
+        "Effusion"
+      ],
+      "answer": "Mediastinal widening",
+      "topic": "Respiratory System"
+    },
+     {
+      "question": "What is the MOST common type of anthrax?",
+      "choices": [
+        "Cutaneous",
+        "Gastrointestinal",
+        "Inhalational",
+        "Oropharyngeal"
+      ],
+      "answer": "Cutaneous",
+      "topic": "Respiratory System"
+    },
+      {
+      "question": "Which statement BEST describes the progression of cutaneous anthrax?",
+      "choices": [
+        "Starts as a vesicle, progresses to a painless papule, then forms a black eschar",
+        "Starts as a small painless papule, then a vesicle, and forms a necrotic ulcer with a black eschar",
+        "Always presents with extensive edema and regional lymphadenopathy",
+        "Forms a painful, necrotic ulcer without a black eschar"
+      ],
+      "answer": "Starts as a small painless papule, then a vesicle, and forms a necrotic ulcer with a black eschar",
+      "topic": "Respiratory System"
+    },
+   {
+      "question": "What is the causative agent of anthrax?",
+      "choices": [
+        "Clostridium tetani",
+        "Bacillus anthracis",
+        "Clostridium difficile",
+        "Bacillus cereus"
+      ],
+      "answer": "Bacillus anthracis",
+      "topic": "Respiratory System"
+    },
+     {
+      "question": "Which statement regarding B. anthracis susceptibility is TRUE?",
+      "choices": [
+        "It is susceptible to cephalosporins.",
+        "It is susceptible to cotrimoxazole.",
+        "It is susceptible to penicillin.",
+        "It is resistant to fluoroquinolones."
+      ],
+      "answer": "It is susceptible to penicillin.",
+      "topic": "Respiratory System"
+    },
+    {
+      "question": "Which diagnostic test is MOST useful for confirming inhalational anthrax?",
+      "choices": [
+        "Culture and sensitivity",
+        "PCR",
+        "Antibody detection during convalescence",
+        "Chest X-ray showing mediastinal widening"
+      ],
+      "answer": "Chest X-ray showing mediastinal widening",
+      "topic": "Respiratory System"
+    },
+     {
+      "question": "Which clinical syndrome is associated with the 'pathology of tissue necrosis surrounded by brawny edema'?",
+      "choices": [
+        "Gastrointestinal anthrax",
+        "Inhalational anthrax",
+        "Cutaneous anthrax",
+        "Meningeal anthrax"
+      ],
+      "answer": "Cutaneous anthrax",
+      "topic": "Respiratory System"
+    },
+     {
+      "question": "What is the primary aim of antibiotic therapy in streptococcal pharyngitis?",
+      "choices": [
+        "To shorten the course of the illness",
+        "To prevent suppurative complications and ARF",
+        "To reduce the severity of symptoms",
+        "To prevent transmission to others"
+      ],
+      "answer": "To prevent suppurative complications and ARF",
+      "topic": "Respiratory System"
+    },
+    {
+      "question": "Which of the following is a suppurative complication of GAS pharyngitis?",
+      "choices": [
+        "Acute rheumatic fever",
+        "Post-streptococcal glomerulonephritis",
+        "Peritonsillar abscess",
+        "Scarlet fever"
+      ],
+      "answer": "Peritonsillar abscess",
+      "topic": "Respiratory System"
+    },
+      {
+      "question": "Which statement BEST describes the rash associated with scarlet fever?",
+      "choices": [
+        "Limited to the face and neck",
+        "Spares the palms and soles",
+        "Feels smooth to the touch",
+        "Typically resolves within 24 hours"
+      ],
+      "answer": "Spares the palms and soles",
+      "topic": "Respiratory System"
+    },
+    {
+      "question": "What feature is commonly seen in the blood smear of a patient with staphylococcal infection?",
+      "choices": [
+        "Gram-positive cocci in chains",
+        "Gram-positive cocci in grape-like clusters",
+        "Gram-negative rods",
+        "Gram-positive rods"
+      ],
+      "answer": "Gram-positive cocci in grape-like clusters",
+      "topic": "Cardiovascular System"
+    },
+   {
+      "question": "Which of the following is NOT a typical site of colonization by S. aureus?",
+      "choices": [
+        "Anterior nares",
+        "Oropharynx",
+        "Urinary tract",
+        "Damaged skin"
+      ],
+      "answer": "Urinary tract",
+      "topic": "Cardiovascular System"
+    },
+    {
+      "question": "In which clinical setting is S. aureus MOST likely to cause infective endocarditis?",
+      "choices": [
+        "Community-acquired pneumonia",
+        "Surgical wound infections",
+        "IV drug users",
+        "Urinary tract infections"
+      ],
+      "answer": "IV drug users",
+      "topic": "Cardiovascular System"
+    },
+    {
+      "question": "What is the primary mechanism of disease in staphylococcal food poisoning?",
+      "choices": [
+        "Invasion of the intestinal lining",
+        "Toxin-mediated effects",
+        "Formation of abscesses",
+        "Immune evasion"
+      ],
+      "answer": "Toxin-mediated effects",
+      "topic": "Cardiovascular System"
+    },
+      {
+      "question": "What is a common finding on imaging in vertebral osteomyelitis caused by S. aureus in adults?",
+      "choices": [
+        "Long bone involvement",
+        "Back pain and fever",
+        "Normal X-ray for up to 14 days",
+        "Blood culture +ve in 50% of cases"
+      ],
+      "answer": "Back pain and fever",
+      "topic": "Cardiovascular System"
+    },
+     {
+      "question": "What is the characteristic skin lesion associated with Staphylococcal Scalded Skin Syndrome?",
+      "choices": [
+        "Nikolsky sign positive",
+        "Painful, necrotic ulcer with a black eschar",
+        "Small, painless papules",
+        "Hemorrhagic mediastinitis"
+      ],
+      "answer": "Nikolsky sign positive",
+      "topic": "Cardiovascular System"
+    },
+    {
+      "question": "What is a key immune evasion strategy employed by staphylococci?",
+      "choices": [
+        "Production of tetanospasmin",
+        "Tendency to form abscesses",
+        "Inhibition of inhibitory neurotransmission",
+        "Production of weaponized spores"
+      ],
+      "answer": "Tendency to form abscesses",
+      "topic": "Cardiovascular System"
+    },
+     {
+      "question": "Which statement BEST describes the role of Coagulase-negative staphylococci (CoNS) in infections?",
+      "choices": [
+        "They are more virulent than S. aureus.",
+        "They are primarily associated with prosthetic devices.",
+        "They are catalase-negative.",
+        "They are easily distinguished from S. aureus on Gram stain."
+      ],
+      "answer": "They are primarily associated with prosthetic devices.",
+      "topic": "Cardiovascular System"
+    },
+      {
+      "question": "Which of the following is the MOST common cause of surgical wound infections?",
+      "choices": [
+        "CoNS",
+        "S. aureus",
+        "Streptococcus pyogenes",
+        "Pseudomonas aeruginosa"
+      ],
+      "answer": "S. aureus",
+      "topic": "Cardiovascular System"
+    },
+     {
+      "question": "What are the three main toxin-mediated diseases caused by S. aureus?",
+      "choices": [
+        "Folliculitis, furuncle, carbuncle",
+        "Food poisoning, TSS, SSSS",
+        "Osteomyelitis, septic arthritis, pyomyositis",
+        "Bacteremia, sepsis, endocarditis"
+      ],
+      "answer": "Food poisoning, TSS, SSSS",
+      "topic": "Cardiovascular System"
+    },
+    {
+      "question": "What are the two important species of coagulase-negative staphylococci (CoNS) and their typical associations?",
+      "choices": [
+        "S. epidermidis (skin flora) and S. saprophyticus (UTIs)",
+        "S. aureus (skin flora) and S. epidermidis (UTIs)",
+        "S. saprophyticus (skin flora) and S. lugdunensis (UTIs)",
+        "S. lugdunensis (skin flora) and S. aureus (UTIs)"
+      ],
+      "answer": "S. epidermidis (skin flora) and S. saprophyticus (UTIs)",
+      "topic": "Cardiovascular System"
+    },
+    {
+      "question": "Which statement BEST describes how to interpret blood cultures positive for CoNS?",
+      "choices": [
+        "CoNS always indicates a true bacteremia.",
+        "CoNS often contaminate cultures.",
+        "Only 10-25% of blood cultures positive for CoNS reflect true bacteremia.",
+        "Multiple isolations of the same strain from separate cultures suggest contamination."
+      ],
+      "answer": "Only 10-25% of blood cultures positive for CoNS reflect true bacteremia.",
+      "topic": "Cardiovascular System"
+    },
+     {
+      "question": "Which group of streptococci is primarily responsible for streptococcal pharyngitis and skin infections?",
+      "choices": [
+        "Group A streptococcus (GAS)",
+        "Group B streptococcus (GBS)",
+        "Viridans streptococci",
+        "Enterococci"
+      ],
+      "answer": "Group A streptococcus (GAS)",
+      "topic": "Cardiovascular System"
+    },
+     {
+      "question": "What is the primary aim of antibiotic treatment for GAS pharyngitis?",
+      "choices": [
+        "To shorten the duration of illness",
+        "To prevent suppurative complications and ARF",
+        "To immediately relieve symptoms",
+        "To eliminate all bacteria from the throat"
+      ],
+      "answer": "To prevent suppurative complications and ARF",
+      "topic": "Cardiovascular System"
+    },
+    {
+      "question": "All of the following statements are true about the function of the erythron EXCEPT",
+      "choices":[
+          "Erythron production of RBCs is influenced by renal production of EPO",
+          "Erythron production of RBCs is influenced by marrow response",
+          "Normal marrow response to anemic stress results in RPI<2",
+          "Erythron needs substrate supplement for Hb synthesis",
+          "Erythropoietin is produced by the kidney in response to reduced O2 tension"
+  ],
+      "answer":"Normal marrow response to anemic stress results in RPI<2",
+      "topic":"Approach to Anemia"
+    },
+     {
+      "question": "All of the following can cause anemia through marrow damage, EXCEPT",
+      "choices":[
+        "Inadequate renal stimulation",
+        "Infiltrative diseases",
+        "Myeloid leukemia",
+        "Aplastic anemia"
+  ],
+      "answer":"Inadequate renal stimulation",
+      "topic":"Approach to Anemia"
+    },
+     {
+      "question": "All are common clinical features of anemia, EXCEPT",
+      "choices":[
+          "Exertional dyspnea",
+          "Fatigue",
+          "Headache",
+          "Loss of consciousness"
+      ],
+      "answer":"Loss of consciousness",
+      "topic":"Approach to Anemia"
+    },
+     {
+      "question": "Which statement is INCORRECT regarding reticulocyte count?",
+      "choices":[
+        "Reticulocyte count is a key to classify anemia",
+        "Reticulocyte count doesn't refelct bone marrow response to anemia",
+        "Reticulocyte Production Index(RPI)is an estimate of marrow production",
+        "RPI=Corrected reticulocyte count/correction factor"
+      ],
+      "answer":"Reticulocyte count doesn't refelct bone marrow response to anemia",
+      "topic":"Approach to Anemia"
+    },
+    {
+      "question": "All of the following tests are useful in evaluating iron supply and storage, EXCEPT",
+      "choices":[
+          "Serum iron",
+          "TIBC",
+          "Percent transferrin saturation",
+          "MCV"
+        ],
+      "answer":"MCV",
+      "topic":"Approach to Anemia"
+    },
+     {
+      "question": "In the anemia of acute or chronic inflammation, which of the following is typically HIGH?",
+      "choices":[
+        "Serum iron",
+        "TIBC",
+        "Percent transferrin saturation",
+        "Serum ferritin"
+      ],
+      "answer":"Serum ferritin",
+      "topic":"Approach to Anemia"
+    },
+     {
+      "question": "Which type of anemia is characterized by an inappropriately low reticulocyte production index, macro- or microcytosis, and abnormal red cell indices?",
+      "choices":[
+         "Hypoproliferative anemia",
+         "Maturation disorder",
+        "Hemolytic anemia",
+        "Anemia of acute blood loss"
+        ],
+        "answer":"Maturation disorder",
+       "topic":"Approach to Anemia"
+     },
+     {
+      "question": "Which of the following is NOT a typical feature of megaloblastic anemia?",
+      "choices":[
+          "Vitamin B12 or folic acid deficiency",
+          "Hypersegmented neutrophils",
+          "Oval macrocytosis",
+          "Increased reticulocyte index"
+      ],
+      "answer":"Increased reticulocyte index",
+      "topic":"Approach to Anemia"
+    },
+     {
+      "question": "In iron deficiency anemia, which of the following lab values is typically HIGH?",
+      "choices":[
+          "Serum iron",
+          "TIBC",
+          "Percent transferrin saturation",
+          "Serum ferritin"
+      ],
+      "answer":"TIBC",
+      "topic":"Approach to Anemia"
+    },
+     {
+      "question": "Which statement about hemolytic anemia is TRUE?",
+      "choices":[
+           "It is associated with red cell production indices 2.5 times normal.",
+           "A marrow examination is always indicated.",
+          "The red cell indices are typically microcytic.",
+          "It results from ineffective erythropoiesis."
+          ],
+          "answer":"It is associated with red cell production indices 2.5 times normal.",
+          "topic":"Approach to Anemia"
+     }
+  ]
