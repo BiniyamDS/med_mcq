@@ -1,0 +1,236 @@
+
+[
+    {
+        "question": "Which of the following is NOT true of hypothyroidism?",
+        "choices": [
+            "A. T3 and T4 levels increase",
+            "B. TSH levels decrease",
+            "C. T3 and T4 levels decrease",
+            "D. TSH levels increase"
+        ],
+        "answer": "A. T3 and T4 levels increase",
+        "topic": "Endocrinology"
+    },
+    {
+        "question": "A patient presents with bloating, pain, bowel habit changes, and passage of mucus. Which of the following is the MOST likely diagnosis?",
+        "choices": [
+            "A. Irritable Bowel Disease (IBD)",
+            "B. Gastric Cancer",
+            "C. Peptic Ulcer Disease",
+            "D. Appendicitis"
+        ],
+        "answer": "A. Irritable Bowel Disease (IBD)",
+        "topic": "Gastroenterology"
+    },
+    {
+        "question": "Which of the following is the primary source of energy during short term fasting (<5 days) in healthy adults?",
+        "choices": [
+            "A. Brown fat",
+            "B. Glycogen",
+            "C. Muscle protein and body fat",
+            "D. Glucose"
+        ],
+        "answer": "C. Muscle protein and body fat",
+        "topic": "Physiology"
+    },
+   {
+        "question": "A patient with a spinal cord injury presents with motor function preserved below the neurological level, but less than half of key muscles below the neurological level have a muscle strength grade ≥ 3. What is the ASIA impairment scale classification?",
+        "choices": [
+            "A. ASIA A",
+            "B. ASIA B",
+            "C. ASIA C",
+            "D. ASIA D"
+        ],
+        "answer": "C. ASIA C",
+        "topic": "Neurology"
+    },
+    {
+        "question": "A patient presents with a suspected lower urinary tract obstruction and has a palpable bladder. Which of the following conditions is MOST likely?",
+        "choices": [
+            "A. Gastritis",
+            "B. Epigastric hernia",
+            "C. Omphalocele",
+            "D. Bladder outlet obstruction"
+        ],
+        "answer": "D. Bladder outlet obstruction",
+        "topic": "Urology"
+    },
+   {
+        "question": "A hypothyroid patient presents after brain surgery. Which of the following laboratory findings is expected?",
+        "choices": [
+            "A. Low TSH and low T3 and T4",
+            "B. High TSH and low T3 and T4",
+            "C. Low TSH and high T3 and T4",
+            "D. High TSH and high T3 and T4"
+        ],
+        "answer": "A. Low TSH and low T3 and T4",
+        "topic": "Endocrinology"
+    },
+    {
+        "question": "Which of the following spinal cord injury syndromes carries the WORST prognosis?",
+        "choices": [
+            "A. Anterior spinal cord syndrome",
+            "B. Central cord syndrome",
+            "C. Brown-Sequard syndrome",
+            "D. Posterior cord syndrome"
+        ],
+        "answer": "A. Anterior spinal cord syndrome",
+        "topic": "Neurology"
+    },
+    {
+        "question": "Which of the following is NOT considered a significant risk factor for chronic subdural hematoma?",
+        "choices": [
+            "A. Male gender",
+            "B. Advanced age",
+            "C. Anticoagulant use",
+            "D. Alcoholism"
+        ],
+        "answer": "A. Male gender",
+        "topic": "Neurology"
+    },
+   {
+    "question": "A patient who cannot understand spoken language but can produce fluent speech (incoherent) most likely has a GCS verbal score of:",
+    "choices": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 4"
+    ],
+    "answer": "D. 4",
+    "topic": "Neurology"
+    },
+ {
+        "question": "Which of the following statements is FALSE regarding the American Society of Anesthesiologists (ASA) Physical Status Classification System?",
+        "choices": [
+            "A. ASA 5 describes a moribund patient who is not expected to survive without the operation.",
+            "B. ASA 3 describes a patient with severe systemic disease.",
+            "C. A patient with an EF of less than 30 would be classified as at least ASA 3.",
+            "D. ASA classification reliably predicts operative risk."
+        ],
+        "answer": "D. ASA classification reliably predicts operative risk.",
+        "topic": "Anesthesiology"
+    },
+    {
+        "question": "Which of the following is NOT an indication for emergency reversal of anticoagulation in a patient on warfarin?",
+        "choices": [
+            "A. Life-threatening bleeding.",
+            "B. Head injury with intracranial hemorrhage.",
+            "C. INR of 1.4",
+            "D. Compartment syndrome."
+        ],
+        "answer": "C. INR of 1.4",
+        "topic": "Surgery"
+    },
+    {
+    "question":"What is the ammount of 3% hypertonic saline has in mEq/L of sodium?",
+     "choices":[
+       "A.154 meq/l",
+       "B.513 meq/l",
+       "C.300 meq/l",
+       "D.450 meq/l"
+     ],
+     "answer":"B.513 meq/l",
+     "topic":"Fluid and electrolyte"
+    },
+
+ {
+        "question": "In which of the following locations is the administration of lidocaine with epinephrine CONTRAINDICATED?",
+        "choices": [
+            "A. Breast",
+            "B. Nose",
+            "C. Scalp",
+            "D. Face"
+        ],
+        "answer": "B. Nose",
+        "topic": "Anesthesiology"
+    },
+   {
+        "question": "What is the approximate amount of carbohydrate stores, in the form of glycogen, in a normal adult body?",
+        "choices": [
+            "A. 100 to 200 g",
+            "B. 300 to 400 g",
+            "C. 500 to 600 g",
+            "D. 700 to 800 g"
+        ],
+        "answer": "B. 300 to 400 g",
+        "topic": "Physiology"
+    },
+  {
+    "question": "A patient is on therapeutic heparin. What activated partial thromboplastin time (aPTT) value, relative to control, would suggest that reversal of anticoagulation might NOT be necessary before surgery?",
+    "choices":[
+      "A. Less than 1.3 times control",
+      "B. 1.5 to 2.5 times control",
+      "C. Greater than 2.5 times control",
+      "D. Greater than 3.0 times control"
+    ],
+    "answer": "A. Less than 1.3 times control",
+    "topic": "Hematology/Surgery"
+  },
+  {
+      "question":"What is the recommended first line treatment option in the acute phase of a hypotensive and hypovolemic shock?",
+      "choices":[
+          "A. normal saline",
+          "B. balanced crystalloid",
+          "C. colloids",
+          "D. blood products"
+      ],
+      "answer": "B. balanced crystalloid",
+       "topic": "Fluid and electrolyte"
+  },
+    {
+    "question": "When considering 'Bridging' anticoagulation in elective cases, Warfarin is typically discontinued how many days before the operation for those with INR 2-3",
+    "choices":[
+        "A. 1 day",
+        "B. 2 days",
+        "C. 4 days",
+        "D. 7 days"
+
+    ],
+     "answer": "C. 4 days",
+      "topic": "Surgery"
+  },
+    {
+     "question":"which of the following is the recommended first line vasopressor in septic shock?",
+     "choices":[
+       "A. dopamine ",
+       "B. dobutamine ",
+       "C. epinephrine ",
+       "D. norepinephrine "
+     ],
+      "answer": "D. norepinephrine ",
+       "topic": "Fluid and electerolyte"
+    },
+    {
+      "question": "What should be done as a First step management of shock?",
+      "choices": [
+       "A. Arresting the bleeding",
+       "B. Antibiotics ",
+       "C. ABC of life ",
+       "D. Vasopressor "
+      ],
+       "answer":"C. ABC of life ",
+       "topic": "surgery"
+    },
+    {
+        "question": "What percentage of ICU patients experience nosocomial infections and are at risk of developing sepsis?",
+        "choices":[
+           "A. 10%",
+           "B. 25%",
+           "C. 50%",
+           "D. 75%"
+        ],
+        "answer":"C. 50%",
+        "topic": "Critical care"
+    },
+     {
+        "question":"Which of the following is the most common form of shoch in ICU patients ?",
+        "choices":[
+         "A. cardiogenic shock",
+         "B. septic shock",
+         "C. Obstructive shock",
+         "D. Hypovolemic shock"
+        ],
+        "answer": "B. septic shock",
+        "topic": "Critical care "
+     }
+]

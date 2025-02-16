@@ -95,8 +95,21 @@ function checkAnswer() {
         input.disabled = true;
     });
 
-    // resultElement.textContent = isCorrect ? "Correct!" : `Wrong! Correct answer: ${questions[currentQuestionIndex].answer}`;
-    // resultElement.className = isCorrect ? "correct" : "wrong";
+    // ...existing code to display result if needed...
+    
+    // Change button to "Next Question" mode.
+    const btn = document.getElementById("check-btn");
+    btn.textContent = "Next Question";
+    btn.removeEventListener("click", checkAnswer);
+    btn.addEventListener("click", nextQuestionAndReset);
+}
+
+function nextQuestionAndReset() {
+    const btn = document.getElementById("check-btn");
+    nextQuestion();
+    btn.textContent = "Check Answer";
+    btn.removeEventListener("click", nextQuestionAndReset);
+    btn.addEventListener("click", checkAnswer);
 }
 
 function previousQuestion() {
