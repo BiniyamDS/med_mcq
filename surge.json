@@ -1,0 +1,711 @@
+
+[
+    {
+      "question": "For early diagnosis of CA stomach, which method is used?",
+      "choices": [
+        "Endoscopy",
+        "Staining with endoscopic biopsy",
+        "Physicalexamination",
+        "Ultrasound abdomen"
+      ],
+      "answer": "Staining with endoscopic biopsy",
+      "topic": "Oncology"
+    },
+    {
+      "question": "Level 9 lymph node includes in gastric CA stage:",
+      "choices": [
+        "Celiac nodes",
+        "Splenic artery",
+        "Greater curvature",
+        "Splenic hilum",
+        "Hepatoduodenal ligament"
+      ],
+      "answer": "Splenic hilum",
+      "topic": "Oncology"
+    },
+    {
+      "question": "All the following indicates early gastric cancer except:",
+      "choices": [
+        "Involvement of mucosa",
+        "Involvement of mucosa and submucosa",
+        "Involvement of mucosa, submucosa and muscularis",
+        "Involvement of mucosa, submucosa and adjacent lymph"
+      ],
+      "answer": "Involvement of mucosa, submucosa and adjacent lymph",
+      "topic": "Oncology"
+    },
+    {
+      "question": "Which type of gastric ulcer corresponds with the associated acid secretion?",
+      "choices": [
+        "Type I/high acid secretion",
+        "Type II/high acid secretion",
+        "Type III/normal or low acid secretion",
+        "Type IV/high acid secretion",
+        "All of the above"
+      ],
+      "answer": "Type III/normal or low acid secretion",
+      "topic": "Gastroenterology"
+    },
+    {
+      "question": "Which of the following vessels is most commonly involved in hemorrhage from duodenal ulcer?",
+      "choices": [
+        "IVC",
+        "Gastroduodenal artery"
+      ],
+      "answer": "Gastroduodenal artery",
+      "topic": "Gastroenterology"
+    },
+      {
+      "question": "Dumping syndrome is due to:",
+      "choices": [
+        "Diarrhea",
+        "Presence of hypertonic content in small intestine",
+        "Vagotomy",
+        "Reduced gastric capacity"
+      ],
+      "answer": "Presence of hypertonic content in small intestine",
+      "topic": "Gastroenterology"
+    },
+    {
+      "question": "A patient comes with hematemesis and melena. On the upper Gl endoscopy there was no significant finding. 2 days later the patient rebleeds. Next line of investigation is",
+      "choices": [
+        "Emergency angiography",
+        "Repeat upper Gl endoscopy",
+        "Enteroscopy",
+        "Laparotomy"
+      ],
+      "answer": "Emergency angiography",
+      "topic": "Gastroenterology"
+    },
+    {
+      "question": "All are true about diffuse carcinoma of stomach except:",
+      "choices": [
+        "Occurs at distal end",
+        "Occurs at cardia",
+        "Genetic rather than environmental cause",
+        "Occurs in younger patients"
+      ],
+      "answer": "Occurs at distal end",
+      "topic": "Oncology"
+    },
+      {
+      "question":"Peritoneal dissemination of gastric cancer is best detected by:",
+          "choices":[
+              "USG",
+              "Laparoscopy",
+              "CT",
+              "MRI"
+          ],
+          "answer": "Laparoscopy",
+          "topic": "Oncology"
+      },
+  {
+  "question": "How to differentiate mechanical obstruction from paralytic ileus?)",
+  "choices":[
+  "Elevation of hemi diaphragm",
+  "Absence of rectal shadow",
+  "Multiple air fluid levels"
+  ],
+  "answer":"Absence of rectal shadow",
+  "topic": "Gastroenterology"
+  },
+  
+   {
+      "question": "Which is not seen in massive resection of small bowel?",
+      "choices": [
+        "Hypogastrinemia",
+        "Vitamin B12 deficiency",
+        "Malabsorption",
+        "Oxalate stone"
+      ],
+      "answer": "Hypogastrinemia",
+      "topic": "Gastroenterology"
+    },
+    {
+      "question": "All of the following are true about Meckel's diverticulum except:",
+      "choices": [
+        "Bleeding",
+        "Intussusceptions",
+        "Arises at the mesenteric border",
+        "Located 60 cm from the cecal valve"
+      ],
+      "answer": "Arises at the mesenteric border",
+      "topic": "Gastroenterology"
+    },
+    {
+      "question": "A 29-year-old female is with suspected appendicitis is taken up for operation. However during surgery the appendix appears to be normal. Instead the ileum is inflamed, enlarged with multiple adhesions. Surrounding fat is also involved. Possible diagnosis is:",
+      "choices": [
+        "Ileocecal tuberculosis",
+        "Diverticulosis",
+        "Intussusception",
+        "Crohn's disease"
+      ],
+      "answer": "Crohn's disease",
+      "topic": "Gastroenterology"
+    },
+    {
+      "question": "Most common site of volvulus:",
+      "choices": [
+        "Sigmoid colon",
+        "Caecum",
+        "Transverse colon",
+        "Stomach"
+      ],
+      "answer": "Sigmoid colon",
+      "topic": "Gastroenterology"
+    },
+    {
+      "question": "All are causes of dynamic intestinal obstruction except:",
+      "choices": [
+        "Gallstones",
+        "Bands",
+        "Intussusceptions"
+      ],
+      "answer": "Bands",
+      "topic": "Gastroenterology"
+    },
+    {
+      "question": "Most common electrolyte imbalance that causes paralytic ileus is:",
+      "choices": [
+          "Hyponatremia",
+          "Hypernatremia",
+          "Hypokalemia",
+          "Hyperkalemia"
+      ],
+      "answer": "Hypokalemia",
+      "topic": "Gastroenterology"
+      },
+  
+      {
+      "question":"The first to appear in a cause of acute intestinal obstruction is:",
+      "choices":[
+      "Constipation",
+      "Vomiting",
+      "Colicky pain",
+      "Distension"
+      ],
+      "answer": "Colicky pain",
+          "topic": "Gastroenterology"
+  
+      },
+  
+  {
+      "question": "Ochsner-Sherren regime is used in management of:",
+      "choices":[
+      "Appendicular abscess",
+       "Chronic appendicitis",
+       "Appendicular mass",
+      "Acute appendicitis"
+      ],
+      "answer": "Appendicular mass",
+      "topic": "Surgery"
+  },
+  {
+  "question":"Most common site of tuberculosis of the intestines:",
+  "choices":[
+  "Stomach",
+  "Ileum",
+  "Jejunum",
+  "Colon"
+  ],
+  "answer": "Ileum",
+  "topic":"Gastroenterology"
+  },
+  {
+  "question":"Typhoid perforation is diagnosed by:",
+  "choices":[
+  "Pain X-ray of abdomen in erect posture",
+  "Rectal examination",
+  "Gastric aspiration",
+  "Barium enema"
+  ],
+  "answer":"Pain X-ray of abdomen in erect posture",
+  "topic":"Gastroenterology"
+  },
+   {
+      "question": "All of the following chest X-ray findings are compatible with tension pneumothorax EXCEPT",
+      "choices": [
+        "Lost lang markings beyond pleural lines",
+        "Mediastinal shift to the contralateral hemithorax",
+        "Ipsilateral collapsed lung",
+        "Flat hemidiaphragm on the affected side"
+      ],
+      "answer": "Lost lang markings beyond pleural lines",
+      "topic": "Pulmonology"
+    },
+    {
+      "question": "What causes the physiologic insult in patients with flail chest?",
+      "choices": [
+        "The multiple rib fractures",
+        "The pulmonary contusion",
+        "The massive blood loss",
+        "The abnormal chest wall movement"
+      ],
+      "answer": "The pulmonary contusion",
+      "topic": "Pulmonology"
+    },
+     {
+      "question": "A 1-day-old male infant has been intolerant of oral feeds and is vomiting. The vomitus sometimes appears bile colored. On examination, the patient's abdomen is mildly distended and somewhat tympanic but is non tender to palpation. Plain abdominal radiography showed double gas bubble what is this patient's most likely diagnosis?",
+      "choices": [
+        "Annular pancreas",
+        "Duodenal atresia",
+        "Intestinal malrotation",
+        "Jejunoileal atresia"
+      ],
+      "answer": "Duodenal atresia",
+      "topic": "Pediatrics"
+    },
+  {
+      "question":"A 24-year-old woman is a passenger in a motor vehicle collision. On arrival to the trauma bay, a chest radiograph is suggestive of a left hemothorax. A tube thoracostomy is performed, and a copious amount of bloody effusion is evacuated. Blood continues to be drained from her chest but less than 200ml per hour for 6 hours. One is not a must as the next step of management?",
+      "choices":[
+     "Multimodal Analgesics",
+      "Chest physiotherapy",
+      "Control x-ray after thoracostomy",
+     "Connect suction machine to under water seal"
+     ],
+     "answer":"Connect suction machine to under water seal",
+     "topic":"Trauma"
+  },
+  {
+  "question":"A newborn male is born without an anus. If a fistula is present, what is the most likely location?",
+  "choices":[
+  "Rectovestibular",
+  "Rectourethral",
+  "Rectoperineal"
+  ],
+  "answer":"Rectovestibular",
+  "topic": "Pediatrics"
+  },
+  
+  {
+  "question":"A previously well 3-week-old infant exhibits a sudden onset of bilious vomiting. Which of the following is the most likely diagnosis?",
+  "choices":[
+  "Pyloric stenosis",
+  "Duodenal atresia",
+  "Malrotation of the midgut volvulus",
+  "Intussusception"
+  ],
+  "answer":"Malrotation of the midgut volvulus",
+  "topic":"Pediatrics"
+  
+  },
+  
+   {
+      "question": "A 5-week-old boy patient with hypertrophic pyloric stenosis presented with laboratory values of sodium 132 meq/1, potassium 3.2 meq/L, chloride 91 meq/L, and bicarbonate 28 meq/L. Which of the following intravenous fluids administered prior to surgery can decrease the risk of respiratory distress?",
+      "choices": [
+        "Dextrose 5% and water with 20 ineq of potassium chloride (kel)",
+        "Lactated Ringer's",
+        "1 unit of packed red blood cells",
+        "Dextrose 5% with one-half normal saline and 20 meq of KCL",
+        "Dextrose 5% with one-half normal saline"
+      ],
+      "answer": "Dextrose 5% with one-half normal saline and 20 meq of KCL",
+      "topic": "Pediatrics"
+    },
+  
+  {
+  "question":"A 13-month-old male presents to the emergency room with 13 h of colicky abdominal pain, emesis, a palpable sausage like abdominal mass, and blood-tinged stools. Which test is most appropriate to determine the diagnosis?",
+  "choices":[
+  "Plain radiograph",
+  "MRI",
+  "Upper GI contrast study",
+  "Ultrasound"
+  ],
+  "answer":"Ultrasound",
+  "topic":"Pediatrics"
+  },
+  {
+  "question":"A 3-year-old child with ultrasound-diagnosed intussusception is being considered for enema reduction. Which of the following reduce the chance of successful air enema reduction?",
+  "choices":[
+  "Pneumoperitoneum",
+  "Red currant jelly stool",
+  "Short segment intussusceptum",
+  "Signs of peritonitis",
+  "Lymph nodes with long segment intussusceptum"
+  ],
+  "answer": "Pneumoperitoneum",
+  "topic":"Pediatrics"
+  },
+  {
+   "question":"A patient with penetrating injury to the chest should undergo thoracotomy if:",
+   "choices":[
+    "There is more than 500 ml of blood which drains from the chest tube when placed",
+    "There is more than 200 ml/h of blood for 3 to 4 hours from the chest tube",
+     "There is an air leak that persists for >48 hours",
+    "There is documented lung injury on CT scan"
+   ],
+   "answer":"There is more than 200 ml/h of blood for 3 to 4 hours from the chest tube",
+   "topic":"Surgery"
+  },
+  
+  {
+   "question":"A 22-year-old man involved in a motor vehicle accident is found to have a thoracic spine fracture (T6) and paraplegia. The patient with a systolic BP of 70 mmhg, pulse of 48 beats/min, and is breathing comfortably. Which of the following would be the most appropriate initial treatment?",
+   "choices":[
+   "Isotonic fluid administration",
+    "Steroid administration within 24 h of the injury",
+    "Immediate intubation",
+    "A-Agonist administration",
+    "Immediate magnetic resonance imaging"
+   ],
+   "answer":"Isotonic fluid administration",
+  "topic":"Trauma"
+  },
+  {
+      "question":"For the above patient what is the most likely diagnosis?",
+      "choices":[
+          "Septic shock",
+           "Neurogenic shock",
+           "Anaphylactic shock",
+           "Obstructive shock"
+          ],
+          "answer":"Neurogenic shock",
+          "topic":"Trauma"
+  },
+      {
+      "question":"A 17-year-old female presents after a motor vehicle crash and is in hemorrhagic shock. A massive transfusion protocol is triggered. What is the optimal ratio in damage control resuscitation?",
+          "choices":[
+           "2 plasma: 1 platelet: 1 red blood cell",
+           "1 plasma: 1 platelet:1 red blood cell",
+           "1 plasma: 1 platelet:3 red blood cells",
+            "1 plasma: 1 cryoprecipitate: 1 red blood cell"
+          ],
+          "answer":"1 plasma: 1 platelet:1 red blood cell",
+          "topic": "Trauma"
+      },
+      {
+      "question": "During massive transfusion, one is not the lethal triad?",
+          "choices":[
+          "Hypothermia",
+          "Alkalosis",
+          "Acidosis",
+           "Coagulopathy"
+          ],
+          "answer": "Alkalosis",
+              "topic":"Trauma"
+      },
+  {
+   "question":"43 years old male patient presented with vomiting of bilious matter of one day duration. He has associated crampy abdominal pain around the umbilicus and failure to pass. On examination, he has PR-110 BP-90/60 and his weight is 64 kg. He has also tenderness on the abdomen. Which one of the following is false about management of this patient?",
+   "choices":[
+   "Double IV line should be secured",
+    "He should be resuscitated with only 1000ml of isotonic saline initially",
+   "His maintenance fluid requirement is around 795 ml over 8hrs",
+    "Ongoing loss should be calculated based on output from the patient(ml/ml)"
+   ],
+   "answer":"He should be resuscitated with only 1000ml of isotonic saline initially",
+   "topic":"Surgery"
+  },
+  {
+      "question": "Which one of the following is false about cholelitiasis?",
+      "choices":[
+          "Black stones are found almost exclusively in GB",
+          "Brown stones typically found in bile ducts",
+          "Commonest type is cholesterol stones",
+          "Black stones are formed because of infection"
+      ],
+      "answer":"Black stones are formed because of infection",
+      "topic":"Gastroenterology"
+  
+  },
+  
+  {
+   "question":"A 30 years old woman comes to the office due to a dull aching pain in the right upper quadrant of the abdomen for several weeks. Her medical history is unremarkable. She takes no medication except an oral contraceptive, which she used for the last 12 years. The patient drinks 1-2 glasses of wine on social occasions but never cigarette smoking. Vital signs are in the normal range. Examination shows hepatomegally with moderate discomfort on deep palpation in the RUQ. There is no jaundice or ascites. Abdominal ultrasound reveals a solitary hyper echoic 7 cm lesion in the right lobe of liver. Which of the following is the false about management of this patient?",
+      "choices":[
+      "Surgical management is the choice",
+      "Indication for surgery is risk of anaphylaxis",
+       "No place of conservative management",
+       "There is risk of malignant transformation"
+      ],
+      "answer":"Indication for surgery is risk of anaphylaxis",
+      "topic": "Surgery"
+  },
+  
+  {
+   "question":"A 35 years old female patient presented with right upper quadrant dull pain of 4 days duration. She has associated vomiting of ingested matter and fever. Vital sign is normal except PR is 104/min. On abdominal examination, she has direct tenderness on the RUQ. Which investigation is the preferred next step?",
+   "choices":[
+   "Abdominal x-ray",
+   "Abdominal ultrasound",
+   "Cholecystography",
+   "CT scan of the abdomen"
+   ],
+   "answer":"Abdominal ultrasound",
+   "topic": "Gastroenterology"
+  },
+  {
+      "question":"39, 45 years old female patient presented with confusion and yellowish discoloration of the eyes of day duration. His vital signs are PR-120 feeble BP 80/50and RR IS 30. He has tenderness over the epigastrium. Which of the following will not be the initial management in this patient?",
+      "choices":[
+          "Resuscitate the patient with 20 ml per kg normal saline",
+          "Admitting to ICU setup",
+          "Starting broad spectrum antibiotics",
+           "Immediate surgical intervention"
+      ],
+      "answer":"Immediate surgical intervention",
+      "topic": "Surgery"
+  },
+  
+  {
+  "question":"40. 49 years old male patient presented with symptoms and signs of small bowel obstruction. Operated and at his 3rd postoperative day he is unable to pass flatus and faces. Serum electrolyte was determined and he has hypokalemia. He was started on KCL 1mg/kg. But the symptoms do not improve. Which of the following should be started in addition to KCL?",
+   "choices":[
+   "Magnesium",
+   "Sodium",
+   "Calcium",
+   "Phosphorus"
+   ],
+   "answer":"Magnesium",
+   "topic": "Surgery"
+  },
+  {
+  "question":"A 59 year-old woman comes to the clinic for the follow up of community acquired pneumonia. Chest x ray was ordered and the finding shows circular calcification under the diaphragm. Which of the following is true about the condition of the patient?",
+  "choices":[
+  "She is at risk of anaphylaxis",
+  "No risk of Gallbladder cancer",
+  "Surgery is i management of choice",
+  "Conservative management if asymptomatic"
+  ],
+  "answer": "Conservative management if asymptomatic",
+  "topic": "Surgery"
+  },
+  {
+  "question":"A 50 years old female patient comes with recurrent episodes of diaphoresis and weakness, which improves with ingestion of food. RBS during these episodes are around 40mg/dl. Which one of the following is true about her condition?",
+  "choices":[
+  "It is associated with MEN I syndrome in 50%of cases",
+  "Serum somatostatine level will be elevated",
+  "Most are benign",
+  "Surgery is not the preferred management"
+  ],
+  "answer":"Most are benign",
+  "topic": "Surgery"
+  
+  },
+  {
+   "question":"35 years old male patient presented with epigastric pain of 4 hours duration after binge drinking. He has 2 episodes of vomiting. He is tachycardia with normal BP. Mild tenderness over the epigastrium. Serum lipase is elevated. Which one of the following is the is false about the patients management.",
+   "choices":[
+    "Antibiotics should not be started",
+     "Enthral feeding should be started within 24 hours",
+   "Abdominal CT is indicated",
+    "Resuscitation should be started"
+   ],
+  "answer": "Abdominal CT is indicated",
+   "topic": "Surgery"
+  },
+  {
+  "question":"A 40 years old woman comes to the office due to a dull aching pain in the right upper quadrant of the abdomen for several weeks. Her medical history is unremarkable. She takes no medication except an oral contraceptive, which she used for the last 12 years. The patient drinks 1-2 glasses of wine on social occasions but never cigarette smoking. Vital signs are in the normal range. Examination shows hepatomegally with moderate discomfort on deep palpation in the RUQ. There is no jaundice or ascites. Abdominal CT reveals a solitary hyper echoic 5cm lesion in the right lobe of liver with central hypo density. What is the underlying path physiology of her condition?",
+  "choices":[
+  "The result of excluded hyperplastic bile duct rests",
+  "A hyperplastic response to an anomalous artery",
+  "Hyperplasia of hepatocytes",
+  "Parasitic infection of the liver"
+  ],
+  "answer":"A hyperplastic response to an anomalous artery",
+  "topic": "Surgery"
+  },
+  {
+  "question":"A 79-year-old smoker presents with dyspnoea. A chest X-ray shows a 10 cm mass in his right lung with bilateral mediastinal lymphadenopathy. His serum sodium is 112 mmol/L. What histological subtype of lung cancer is most likely?",
+  "choices":[
+  "Adenocarcinoma",
+  "Squamous cell carcinoma",
+  "Small cell ca",
+  "Large cell ca"
+  ],
+  "answer": "Small cell ca",
+  "topic":"Oncology"
+  },
+  {
+  "question":"A 56 year old woman comes to the clinic due to 4 months of mild cough with occasional, scant sputum production. Yesterday, she noticed blood in her sputum. The patient has no chronic medical conditions. She has never smoked .chest examination is normal. Chest x-ray reveals a 2.5 cm irregular nodule in the peripheral right upper lung field with no hilar or mediastinal lymph node enlargement. What is the most likely diagnosis in this patient?",
+  "choices":[
+   "Adenocarcinoma of the lung",
+   "Tuberculosis",
+    "Squamous cell ca of the lung",
+  "Small cell ca of the lung"
+  ],
+  "answer":"Adenocarcinoma of the lung",
+  "topic":"Oncology"
+  },
+  {
+  "question": "Which of the following are not true about orofacial cleft?",
+  "choices":[
+      "The etiological are mainly multi-factorial",
+   "Cleft lip and Palat is more common as compared with isolated cleft lip and cleft palate",
+   "Cleft Lip formed at failure of merged Medial nasal and maxillary prominence at 4-6 weeks",
+   "Cleft palate formed a failure of Medial nasal prominences is the intermaxillary segment at 7-9 week",
+   "None"
+  ],
+  "answer": "Cleft lip and Palat is more common as compared with isolated cleft lip and cleft palate",
+  "topic":"Surgery"
+  },
+  {
+      "question":"Which of the following is not part of Rule of Ten in Orofacial cleft?",
+      "choices":[
+      "Age of 10month",
+      "Hgb of 10",
+      "Weight of 10kg",
+      "MUAC of 10cm"
+      ],
+      "answer": "MUAC of 10cm",
+      "topic":"Surgery"
+  },
+  {
+      "question": "What is the most lethal type of skin cancer?",
+      "choices":[
+       "Melanoma",
+      "Basal cell carcinoma",
+      "Squamous cell carcinoma",
+     "Cutaneous lymphoma"
+      ],
+      "answer":"Melanoma",
+      "topic":"Oncology"
+  },
+  {
+      "question":"What is the \"ABCDE\" rule for melanoma detection?",
+      "choices":[
+     "Asymmetry, Border irregularity, Color variation, Diameter greater than 6 mm, Evolving",
+     "Asymmetry, Border irregularity, Color variation, Diameter greater than 10 mm, Evolving",
+     "Asymmetry, Border regularity, Color uniformity, Diameter less than 6 mm, Evolving",
+      "Asymmetry, Border irregularity, Color uniformity, Diameter less than 10 mm, Evolving"
+      ],
+      "answer": "Asymmetry, Border irregularity, Color variation, Diameter greater than 6 mm, Evolving",
+      "topic":"Oncology"
+  },
+  
+  {
+   "question":"Which one is not true about compartment syndrome?",
+   "choices":[
+   "More than 75% of compartment syndrome associated with fracture with Tibial fracture is the most common cause.",
+   "ACS delta pressure <30 mmhg indicates need for fasciotomy",
+   "Compartment syndrome: CP >30 mmhg indicates need for fasciotomy",
+    "Compartment syndrome in anterior compartment of the leg results compression of superficial peroneal nerve and posterior tibial artery"
+   ],
+   "answer":"Compartment syndrome in anterior compartment of the leg results compression of superficial peroneal nerve and posterior tibial artery",
+   "topic": "Surgery"
+  },
+  {
+  "question": "A 45-year-old female presents with severe, colicky RUQ pain, nausea, vomiting, yellowish discoloration of eye, pale stools, and dark urine for Imonth. The jaundice and RUQ were",
+  "choices":[],
+  "answer":"Incomplete question. Cannot determine answer.",
+  "topic":"Incomplete question"
+  },
+  {
+  "question":"intermittent with intermittent fever of this similar duration. Abdominal ultrasound reported that CBD dilated 9mm. What will be the next investigation?",
+  "choices":[
+  "Triphasic contrast abdominal CT",
+  "MRCP",
+  "Endoscopic US",
+  "Percutaneous cholangiography (PTC)"
+  ],
+  "answer":"MRCP",
+  "topic": "Gastroenterology"
+  },
+  {
+      "question":"A 55-year-old female with a known history of diabetes mellitus (DM) and RVI presents with a complaint of abnormal uterine bleeding (AUB) for six months. During the investigation of her AUB, asymptomatic gallstones were discovered. The gynecologist referred her to surgery for a prophylactic cholecystectomy. Which of the following is NOT an absolute indication for prophylactic cholecystectomy in this case?",
+     "choices":[
+      "Size of stone >3cm",
+       "Porcelain gallbladder",
+      "Immunocompromised comorbidities of DM +RVI",
+       "History of Sickle cell anemia"
+      ],
+      "answer":"Immunocompromised comorbidities of DM +RVI",
+      "topic":"Surgery"
+  },
+  {
+  "question":"A survival graph displaying the survival rates for periampullary cancers, labeled A, B, C, and D, is presented below. Based on the typical survival patterns for these cancers, which of the following options correctly matches each label to the corresponding cancer type?",
+  "choices":[
+  "A. A-Duodenum CA, B-Pancreatic CA, C-Bile Duct CA, D-Ampulla CA",
+   "B. A-Duodenum CA, B=Bile Duct CA, C=Ampulla CA, D-Pancreatic CA",
+  "C. A-Duodenum CA, B-Bile Duct CA, C=Ampulla CA, D-Pancreatic CA",
+  "D. A-Duodenum CA, B=Ampulla CA, C=Bile duct CA, D-Pancreatic CA"
+  ],
+  "answer":"D. A-Duodenum CA, B=Ampulla CA, C=Bile duct CA, D-Pancreatic CA",
+   "topic":"Oncology"
+  },
+  {
+   "question":"A 55-year-old female patient presents with a complaint of right upper quadrant (RUQ) pain, vomiting, and nausea. On physical examination (PE), she exhibits tachycardia, tachypnea, and fever, with a blood pressure (BP) of 90/60 mmhg. Laboratory investigations reveal a white blood cell (WBC) count of 12,000/µl with 98% neutrophils, while hemoglobin (Hgb) and platelet (PLT) levels are normal. The international normalized ratio (INR) is 2.5, and renal function tests (RFT) are normal. What is the most likely diagnosis and what immediate measures should be taken?",
+   "choices": [],
+   "answer": "Incomplete Question, Missing Choices",
+   "topic": "Incomplete Question"
+  },
+  {
+   "question":"A 70-year-old male patient presents with a complaint of persistent and progressive jaundice, fever, and right upper quadrant (RUQ) pain, accompanied by significant itching (pruritus). On physical examination (PE), the patient exhibits an ASL with a chronic baseline, tachycardia, tachypnea, and fever, along with RUQ tenderness. Laboratory investigations reveal a white blood cell (WBC) count of 20,000/µl with 87% neutrophils, a platelet (PLT) count of 90,000/µl, normal renal function tests (RFT), an albumin level of 1.6 g/dl, an international normalized ratio (INR) of 2.3, and a CA 19-9 level of 1200 U/ml. Ultrasound reported the CBD dilation. What is the most likely diagnosis?",
+   "choices":[
+   "A. Grade III Ascending cholangitis+ OJ 2nd advanced Pancreatic CA",
+   "B. Grade II Ascending cholangitis+ OJ 2nd advanced Pancreatic CA",
+   "C. Grade III Ascending cholangitis+ OJ 2nd resectable pancreatic CA",
+   "D. Grade III Ascending cholangitis+ OJ 2nd Cholidocholithiasis",
+   "E. Grade II Ascending cholangitis+ OJ 2nd Cholangiocarcinoma"
+   ],
+   "answer":"A. Grade III Ascending cholangitis+ OJ 2nd advanced Pancreatic CA",
+   "topic":"Surgery"
+  },
+  {
+  "question": "Which of the following is/are not true about Gall Bladder CA?",
+  "choices": [
+  "A. More than 90% of gall bladder ca associated with gall stone",
+  "B. Larger stones (>3 cm) are associated with a 10-fold increased risk of cancer",
+  "C. Porcelain\" gallbladder associated with >20% incidence of gallbladder carcinoma",
+   "D. Polypoid lesions of the gallbladder >1 cm has increased risk gall bladder ca and need cholecystectomy",
+   "E. None"
+  ],
+  "answer": "E. None",
+  "topic":"Oncology"
+  },
+  {
+   "question":"A 66-year-old male patient presented at the outpatient department (OPD) with a complaint of jaundice, significant weight loss, and itching (pruritus) of one month's duration. On physical examination (PE), he appeared chronically ill, with scleral icterus, an emaciated body habitus, and scratch marks. Which of the following statements is NOT true regarding the approach to this patient",
+   "choices":[
+   "A. Abdominal Ultrasound followed Triphasic Contrast CT is the best choice of imaging diagnosis approach",
+   "B. Abdominal Ultrasound followed Magnetic resonance cholangiopancreatography (MRCP) is the best choice of imaging diagnosis approach",
+    "C. CA-19-9 is a mandator tumor marker for this patient",
+  "D. CBC, RFT, Liver enzyme, Coagulation, albumen, and Bilirubin are mandatory investigations."
+   ],
+   "answer": "C. CA-19-9 is a mandator tumor marker for this patient",
+   "topic": "Surgery"
+  },
+  {
+      "question":"Which of the following is/are not true about choledochal cyst?",
+      "choices":[
+       "A. Malignancies may be associated with any type of bile duct cyst, although the prevalence of cancer is significantly greater in type I and IV cysts",
+       "B. Cholangiocarcinoma is the most common malignancy associated with bile duct cysts, representing more than 70% of associated malignancies",
+       "C. Pancreatitis is often seen with type III cysts",
+        "D. The most widely accepted hypothesis is that cystic dilation of the bile ducts is related to an anomalous arrangement of the pancreaticobiliary ductal junction",
+        "E. None"
+      ],
+      "answer":"E. None",
+      "topic":"Gastroenterology"
+  
+  },
+  {
+      "question":"The figures below illustrate the typical pattern of dysplastic changes in colorectal carcinoma, with the sequential gene mutations labeled A, B, C, and D. Which option correctly matches the gene mutations (A, B, C, and D) to their typical order of appearance during the adenoma- carcinoma sequence?",
+     "choices":[
+          "A. A = APC, B = P53, C = K-RAS, D = DCC/DPC4",
+          "B. A = APC, B = K-RAS, C = P53, D =DCC/DPC4",
+          "C. A = APC, B = K-RAS, C = DCC/DPC4, D = P53 -",
+          "D. A = APC, B = DCC/DPC4, C= K-RAS, D = P53"
+     ],
+     "answer":"B. A = APC, B = K-RAS, C = P53, D =DCC/DPC4",
+      "topic": "Oncology"
+  
+  },
+      {
+     "question":"Clinical and epidemiological data indicate that small bowel malignancy is rare, despite the small bowel constituting over 90% of the total bowel length. Which of the following is NOT a likely explanation for this phenomenon?",
+     "choices":[
+          "A. Dilution of environmental carcinogens within the liquid chyme present in the small intestinal lumen.",
+         "B. Rapid transit of chyme, limiting the contact time between carcinogens and the intestinal mucosa.",
+           "C. A relatively low concentration of bacteria in small intestinal chyme, and therefore, a relatively low concentration of carcinogenic products of bacterial metabolism.",
+           "D. Mucosal protection by secretory iga and hydrolases such as benzpyrene hydroxylase",
+          "E. Efficient epithelial cellular apoptotic mechanisms that serve to eliminate clones harboring genetic mutations.",
+           "F. None"
+  
+     ],
+      "answer":"F. None",
+      "topic": "Oncology"
+      },
+  
+  {
+  "question":"Which of the following is not true about small bowel cancer?",
+  "choices":[
+  "A. GIST is a tumor arise from Interstitial cell of Cajal accounted 10-15%",
+  "B. Carcinoid tumor arise from Enterochromaffin cell accounted 20-40%",
+  "Adenocarcinoma is mostly located in the ileum accounted 35-50%",
+  "D. Approximately 25% to 50% of patients with small bowel carcinoid tumor- derived liver metastases will develop manifestations of the carcinoid syndrome.",
+  "E. CD117 antigen positive in more than 95% of GIST tumor and considered tumor marker"
+  ],
+  "answer":"Adenocarcinoma is mostly located in the ileum accounted 35-50%",
+  "topic":"Oncology"
+  }]
